@@ -15,11 +15,12 @@ title: 首頁
 ### 零式副本
 
 - **阿卡狄亞零式登天鬥技場（輕量級）**
-  - [輕量級1 — 黑貓](savage/m1s)
-  - [輕量級2 — 蜂蜂小甜心](savage/m2s)
-  - [輕量級3 — 野蠻炸彈](savage/m3s)
-  - [輕量級4（前半）— 狡雷](savage/m4s-1)
-  - [輕量級4（後半）— 狡雷](savage/m4s-2)
+  - [輕量級1 — 黑貓](savage/light/m1s)
+  - [輕量級2 — 蜂蜂小甜心](savage/light/m2s)
+  - [輕量級3 — 野蠻炸彈](savage/light/m3s)
+  - [輕量級4（前半）— 狡雷](savage/light/m4s-1)
+  - [輕量級4（後半）— 狡雷](savage/light/m4s-2)
+  - [配裝推薦](savage/light/gearing)
 
 ## 攻略來源
 

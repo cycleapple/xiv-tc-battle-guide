@@ -64,7 +64,7 @@ const config: Config = {
           items: [
             {
               label: '零式攻略',
-              to: '/savage/m1s',
+              to: '/savage/light/m1s',
             },
           ],
         },
