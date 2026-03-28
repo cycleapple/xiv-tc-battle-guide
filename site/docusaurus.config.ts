@@ -44,22 +44,8 @@ const config: Config = {
     {
       tagName: 'meta',
       attributes: {
-        property: 'og:image',
-        content: 'https://cycleapple.github.io/xiv-tc-battle-guide/img/docusaurus-social-card.jpg',
-      },
-    },
-    {
-      tagName: 'meta',
-      attributes: {
         property: 'og:site_name',
         content: 'FF14 繁中高難攻略',
-      },
-    },
-    {
-      tagName: 'meta',
-      attributes: {
-        name: 'twitter:card',
-        content: 'summary_large_image',
       },
     },
   ],
