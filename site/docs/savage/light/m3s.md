@@ -12,6 +12,15 @@ description: 阿卡狄亞零式登天鬥技場 輕量級3攻略
 本攻略基於 Game8 ぬけまる式整理，適用於日服 Elemental / Mana 招募板主流打法。
 :::
 
+## 影片攻略
+
+| 語言 | 作者 | 連結 |
+|------|------|------|
+| 中文 | JT | [YouTube](https://youtu.be/QjJt3PiGoJw) |
+| 日文 | ぬけまる | [YouTube](https://youtu.be/zZDu5NY7DIo) |
+
+---
+
 ## 巨集與場標
 
 ### 巨集（第1段）
