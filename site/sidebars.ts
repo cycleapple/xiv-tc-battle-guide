@@ -14,6 +14,7 @@ const sidebars: SidebarsConfig = {
         'savage/m4s-2',
       ],
     },
+    'gearing',
   ],
 };
 
