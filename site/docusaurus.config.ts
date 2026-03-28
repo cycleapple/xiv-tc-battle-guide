@@ -4,7 +4,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'FF14 繁中高難攻略',
-  tagline: 'Final Fantasy XIV 繁體中文高難度副本攻略指南',
+  tagline: 'Final Fantasy XIV 繁體中文零式副本攻略 — 阿卡狄亞零式登天鬥技場巨集、機制圖解、配裝推薦',
   favicon: 'img/favicon.ico',
 
   future: {
@@ -18,6 +18,51 @@ const config: Config = {
   projectName: 'xiv-tc-battle-guide',
 
   onBrokenLinks: 'throw',
+
+  headTags: [
+    {
+      tagName: 'meta',
+      attributes: {
+        name: 'keywords',
+        content: 'FF14, FFXIV, 零式, 攻略, 繁體中文, 阿卡狄亞, 登天鬥技場, 輕量級, M1S, M2S, M3S, M4S, 巨集, 配裝, macro, savage, guide',
+      },
+    },
+    {
+      tagName: 'meta',
+      attributes: {
+        name: 'author',
+        content: 'cycleapple',
+      },
+    },
+    {
+      tagName: 'meta',
+      attributes: {
+        property: 'og:type',
+        content: 'website',
+      },
+    },
+    {
+      tagName: 'meta',
+      attributes: {
+        property: 'og:image',
+        content: 'https://cycleapple.github.io/xiv-tc-battle-guide/img/docusaurus-social-card.jpg',
+      },
+    },
+    {
+      tagName: 'meta',
+      attributes: {
+        property: 'og:site_name',
+        content: 'FF14 繁中高難攻略',
+      },
+    },
+    {
+      tagName: 'meta',
+      attributes: {
+        name: 'twitter:card',
+        content: 'summary_large_image',
+      },
+    },
+  ],
 
   i18n: {
     defaultLocale: 'zh-Hant',
@@ -36,6 +81,10 @@ const config: Config = {
         theme: {
           customCss: './src/css/custom.css',
         },
+        sitemap: {
+          changefreq: 'weekly' as const,
+          priority: 0.5,
+        },
       } satisfies Preset.Options,
     ],
   ],
@@ -45,6 +94,9 @@ const config: Config = {
       defaultMode: 'dark',
       respectPrefersColorScheme: true,
     },
+    metadata: [
+      { name: 'description', content: 'FF14 繁體中文零式副本攻略網站。提供阿卡狄亞零式登天鬥技場（輕量級 M1S～M4S）完整機制圖解、巨集、配裝推薦，適用日服 Elemental / Mana 主流打法。' },
+    ],
     navbar: {
       title: 'FF14 繁中高難攻略',
       items: [

@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 title: 輕量級1 — 黑貓
-description: 阿卡狄亞零式登天鬥技場 輕量級1攻略
+description: FF14 阿卡狄亞零式輕量級1（M1S）黑貓攻略 — 繁中巨集、機制圖解、犬丸式打法
 ---
 
 # 阿卡狄亞零式登天鬥技場 輕量級1

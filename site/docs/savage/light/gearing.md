@@ -1,7 +1,7 @@
 ---
 sidebar_position: 2
 title: 配裝推薦
-description: FF14 至天之座零式輕量級各職業配裝方案
+description: FF14 阿卡狄亞零式輕量級（M1S～M4S）全職業配裝推薦 — 坦克、治療、DPS 開荒與畢業 BIS
 ---
 
 # 配裝推薦
