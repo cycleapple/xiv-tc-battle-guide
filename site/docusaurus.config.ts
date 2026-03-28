@@ -5,7 +5,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 const config: Config = {
   title: 'FF14 繁中高難攻略',
   tagline: 'Final Fantasy XIV 繁體中文零式副本攻略 — 阿卡狄亞零式登天鬥技場巨集、機制圖解、配裝推薦',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/favicon.png',
 
   future: {
     v4: true,
