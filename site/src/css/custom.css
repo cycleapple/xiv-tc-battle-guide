@@ -1,0 +1,51 @@
+/**
+ * FF14 繁中高難攻略 - Custom CSS
+ */
+
+:root {
+  --ifm-color-primary: #5b6abf;
+  --ifm-color-primary-dark: #4a5ab5;
+  --ifm-color-primary-darker: #4554ab;
+  --ifm-color-primary-darkest: #39468d;
+  --ifm-color-primary-light: #6c7ac9;
+  --ifm-color-primary-lighter: #7682ce;
+  --ifm-color-primary-lightest: #939edb;
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+}
+
+[data-theme='dark'] {
+  --ifm-color-primary: #8b9cf5;
+  --ifm-color-primary-dark: #6d82f2;
+  --ifm-color-primary-darker: #5e75f0;
+  --ifm-color-primary-darkest: #3150eb;
+  --ifm-color-primary-light: #a9b6f8;
+  --ifm-color-primary-lighter: #b8c3f9;
+  --ifm-color-primary-lightest: #e5e9fd;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
+
+/* Admonition custom styling */
+.admonition {
+  margin-bottom: 1.5em;
+}
+
+/* Code block for macros */
+pre code {
+  font-family: 'Consolas', 'Monaco', 'Courier New', monospace;
+  line-height: 1.6;
+}
+
+/* Table styling */
+table {
+  display: table;
+  width: 100%;
+}
+
+th, td {
+  text-align: center;
+}
+
+th:first-child, td:first-child {
+  text-align: center;
+}
