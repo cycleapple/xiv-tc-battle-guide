@@ -1,0 +1,382 @@
+[
+  {
+    "sheet": "坦克",
+    "type": "开荒",
+    "gcd": "2.5",
+    "job": "坦克通用除骑士",
+    "ilvl": "710",
+    "link": "https://ffxivgearing.neko7ina.com/?tN2IWqXavtje6lx8U0xwXf3zZB5666PewJstplRyu8PaBbEVJW",
+    "note": "",
+    "new_link": "https://cycleapple.github.io/xiv-tc-gear/?s=xy9ZysxxflYSkI3UMg1zJHnJVn94KMJofMrLrmqYTrHwb0VZAwI4nCxLTmjzbF4pu2xxMKIcg41fy81AOyxC1Wxz63YGjhHXZyC"
+  },
+  {
+    "sheet": "坦克",
+    "type": "开荒",
+    "gcd": "2.5",
+    "job": "骑士",
+    "ilvl": "710",
+    "link": "https://ffxivgearing.neko7ina.com/?s11bCdbrGnOu8ivzM4quHAZZpSLaRqXEG1D4hY8qfFVWDlR8Y6rB",
+    "note": "",
+    "new_link": "https://cycleapple.github.io/xiv-tc-gear/?s=7lG61VbFvo6RxpFc32CkiWJ0Bds9TFVXbODUnqlj9WsVjJptMCd7T9DKCw5szEUiTBvCJMh8xsK8qIU757iHdfsQ90L6SS"
+  },
+  {
+    "sheet": "坦克",
+    "type": "开荒",
+    "gcd": "2.45",
+    "job": "DK/绝枪选用",
+    "ilvl": "710",
+    "link": "https://ffxivgearing.neko7ina.com/?t2ifvnl5shOasDKAw5EP494OSUbhWrnJdqSxIfIhuNgrHnkNSti967v",
+    "note": "",
+    "new_link": "https://cycleapple.github.io/xiv-tc-gear/?s=xy9ZysxxflYSkI3UMgsKP78hd1iwLrdVY5thbZ7q4mOQZ5LRgoUXYk03md3ppr1hpQM2hz9NkJovP9ZJSULuLjCsIN5YqhsSZBo"
+  },
+  {
+    "sheet": "坦克",
+    "type": "毕业",
+    "gcd": "2.5",
+    "job": "兼容性：4T兼容通用\n直信食物",
+    "ilvl": "730",
+    "link": "https://ffxivgearing.neko7ina.com/?3w3OUrMOLPcWuuw0hd8GIUsxzUXE2v6vWc",
+    "note": "兼容性：4T兼容通用\n直信食物",
+    "new_link": "https://cycleapple.github.io/xiv-tc-gear/?s=8q5gXB3rkHlEqlIU5IYyPJiyICCTEOEndcRhRPWsEHw13PVyJ2FH4wbgFaozEuVzw"
+  },
+  {
+    "sheet": "坦克",
+    "type": "毕业",
+    "gcd": "2.45",
+    "job": "DK/绝枪选用",
+    "ilvl": "730",
+    "link": "https://ffxivgearing.neko7ina.com/?4djJKkgQzn5WPlEnFNgaV6OddnmzQdI6fZGp",
+    "note": "兼容性：无法与2.5完全兼容，需将戒指暴击改信念\n换点数手套打信念，用零式耳坠\n暴速食物",
+    "new_link": "https://cycleapple.github.io/xiv-tc-gear/?s=8DtXMCZIuKGXQ71xQCJrhEzVJmt2PKFO0HO60XaIn66QFYv0gRs2b1iaonoB7Kl9g"
+  },
+  {
+    "sheet": "武僧",
+    "type": "开荒",
+    "gcd": "",
+    "job": "武僧",
+    "ilvl": "710",
+    "link": "https://ffxivgearing.neko7ina.com/?3xeHGDfGMnI9jxubsHkz56VGAXG8l6DACQrpWN1XNpGkruWa37qztcjCAFN",
+    "note": "兼容性：除腿部（裤子）禁断外，与武士2.14开荒兼容/武僧1.93开荒兼容\n信暴食物",
+    "new_link": "https://cycleapple.github.io/xiv-tc-gear/?s=yuKWGSwX0SNQU0d8ZIOUiU8X4x95UHmOQEDbFTr6pqDcQTauFIulr4VnTckVLmSZmKftHtDc6YrpQBd9zXP4X8LGQRYlpuvRMN4"
+  },
+  {
+    "sheet": "武僧",
+    "type": "开荒",
+    "gcd": "",
+    "job": "武僧",
+    "ilvl": "710",
+    "link": "https://ffxivgearing.neko7ina.com/?3vlzBH4hjlkKYPrIte0IODydMj8wARAvH59VYwTmsupk3Ztj90bjrwPk4Fx",
+    "note": "兼容性：除腿部（裤子）禁断，与武士2.14开荒兼容/武僧1.94开荒兼容\n暴速食物",
+    "new_link": "https://cycleapple.github.io/xiv-tc-gear/?s=yuKWGSwX0SNQU0d8ZIOUiU8X4x95UHmOQEDbFTr6pqDcQTauFIulA3UcVHcQ613BB5xe1cMCXgEe2dcWaOplw3ybNhNyxC2rXAu"
+  },
+  {
+    "sheet": "武僧",
+    "type": "毕业",
+    "gcd": "",
+    "job": "武僧",
+    "ilvl": "730",
+    "link": "https://ffxivgearing.neko7ina.com/?1GXdyEENbxSFmLEAqpj7Vahj8TteO9vB2cVh",
+    "note": "兼容性：兼容次优2.14武士，兼容2.49镰刀首饰\n1.94最优武僧\n暴速食物",
+    "new_link": "https://cycleapple.github.io/xiv-tc-gear/?s=8K6mDbgkbPJUsMqgsiKXRkXjftsaFHDt0VaY6UIjd6bFD7Yj9LruUlklmjDVQpET0"
+  },
+  {
+    "sheet": "武僧",
+    "type": "毕业",
+    "gcd": "",
+    "job": "武僧",
+    "ilvl": "730",
+    "link": "https://ffxivgearing.neko7ina.com/?2qrbRL6f7whxt21YTFj5oMSyp7RvGgDGUTEz",
+    "note": "兼容性：兼容最优2.14/2.17武士，兼容2.5龙骑镰刀首饰\n1.93武僧\n信暴食物",
+    "new_link": "https://cycleapple.github.io/xiv-tc-gear/?s=8wHFO9k31MoB317CHp05ppFWUpZcL8nUCy7JeIpHzozSm9xCCytEBJPoHMv5C279M"
+  },
+  {
+    "sheet": "武士",
+    "type": "开荒",
+    "gcd": "2.14",
+    "job": "武士",
+    "ilvl": "710",
+    "link": "https://ffxivgearing.neko7ina.com/?88XC5fImcWFfheTj1TEbZY4wUsToybWJp8uazAuKFOx13DKgV4VxflaKy",
+    "note": "除腿部(裤子)禁断外，与武僧1.94开荒兼容\n信暴食物",
+    "new_link": "https://cycleapple.github.io/xiv-tc-gear/?s=yuKWGSwX0SNQU0d8ZIOUiU8X4x95UHmOQEDbFTr6pqDcQTauFm92ObgeKqk74EoSEDVxzKQljwm0VXKEpuGGuzhNeU7atn1ic7Q"
+  },
+  {
+    "sheet": "武士",
+    "type": "毕业",
+    "gcd": "2.14",
+    "job": "武士",
+    "ilvl": "730",
+    "link": "https://ffxivgearing.neko7ina.com/?eLjlA3gEavq67IP7gswKCHJYJTF03bYeOPqRg",
+    "note": "兼容性：兼容1.93最优武僧，兼容2.5龙骑镰刀首饰\n2.14最优武士\n信暴食物",
+    "new_link": "https://cycleapple.github.io/xiv-tc-gear/?s=8wHFO9k31MoB317CHp05ppFWUqjLvaMX1b2kaYUHBsdcqWu3Y6YhIbx6HUtD8I6KW"
+  },
+  {
+    "sheet": "武士",
+    "type": "毕业",
+    "gcd": "2.14",
+    "job": "武士",
+    "ilvl": "730",
+    "link": "https://ffxivgearing.neko7ina.com/?1ESsxCtfS5LmImMMdh2qmN6veHodndsFhuwm",
+    "note": "兼容性：兼容1.94最优武僧，兼容2.49镰刀首饰\n2.14次优武士\n直信食物",
+    "new_link": "https://cycleapple.github.io/xiv-tc-gear/?s=8K6mDbgkbPJUsMqgsiKXRkXjftMJpK2vpy5z3bdjf9OZA9hLATk6xZtVUsCu4RAou"
+  },
+  {
+    "sheet": "武士",
+    "type": "毕业",
+    "gcd": "2.17",
+    "job": "武士",
+    "ilvl": "730",
+    "link": "https://ffxivgearing.neko7ina.com/?1EWKHnjuIMu8IyDnxAI0jGwUXrsemAXXANDM",
+    "note": "兼容性：完美兼容1.93最优武僧；2.5龙骑镰刀首饰\n改2.14武士需要换装备和镶嵌\n2.17最优\n直信食物",
+    "new_link": "https://cycleapple.github.io/xiv-tc-gear/?s=8wHFO9k31MoB317CHp05ppFWUqjLvaMX1b2kaYU7hAh0WR7zlRs1ubGGnPcvmcF2m"
+  },
+  {
+    "sheet": "毒蛇",
+    "type": "开荒",
+    "gcd": "2.12",
+    "job": "兼容性：兼容忍者\n信暴食物",
+    "ilvl": "710",
+    "link": "https://ffxivgearing.neko7ina.com/?eccpNIMYKQTnMB9vX98CwWdDfdcGmVr2c1PVrbEJprRa0ogjGj3EqXK",
+    "note": "兼容性：兼容忍者\n信暴食物",
+    "new_link": "https://cycleapple.github.io/xiv-tc-gear/?s=y16QubtbaCz60MDQLEh7AyUN0ZrKAsxqnEKoDUUHNkOc0G2U9DxZkHl64qFuWMeuPn8Xfq8NE6f8PjFo3Ifre6k5RRfPvKr2jvg"
+  },
+  {
+    "sheet": "毒蛇",
+    "type": "开荒",
+    "gcd": "2.08",
+    "job": "毒蛇",
+    "ilvl": "710",
+    "link": "https://ffxivgearing.neko7ina.com/?jLieYbjDe0SImQo8kYaHCr9x45byJFRkvPOp3mtlTuRrFndRMmDahrH8iec",
+    "note": "兼容性：兼容忍者，可以换点数耳坠但不装备；\n只玩毒蛇可以换点数戒指\n暴速食物",
+    "new_link": "https://cycleapple.github.io/xiv-tc-gear/?s=1mBcrpmMUr0XTM3qcehE1LRQnJiazepV8DeXJGFQDLIosaO39YWi34xMXHdj0uwHzEGK9GJECYuD3N7tQKIGizOWGv5Vxv7DhLIy3gy"
+  },
+  {
+    "sheet": "毒蛇",
+    "type": "毕业",
+    "gcd": "2.12",
+    "job": "毒蛇",
+    "ilvl": "730",
+    "link": "https://ffxivgearing.neko7ina.com/?1GZg0ZYZl7C9iA3kIdoKxUBBn1SrBiMzOkKs",
+    "note": "兼容性：装备和饰品与毒蛇多种BIS,与忍者和远敏2.5BIS完全兼容\n6周毕业2.12最优\n信暴食物",
+    "new_link": "https://cycleapple.github.io/xiv-tc-gear/?s=8q0koFl9e8RmzPZoIeb1DufMJugcaXuK8AtxcURric6o9hHwPvbPGTA4SRbTbMVeC"
+  },
+  {
+    "sheet": "毒蛇",
+    "type": "毕业",
+    "gcd": "2.08",
+    "job": "毒蛇",
+    "ilvl": "730",
+    "link": "https://ffxivgearing.neko7ina.com/?j1lES5pHnXpxN6dRxlm62u51wwqwdPrTWv7RS",
+    "note": "兼容性：装备和饰品与毒蛇多种BIS，与忍者和远敏2.5BIS完全兼容\n8周毕业2.08\n信暴食物",
+    "new_link": "https://cycleapple.github.io/xiv-tc-gear/?s=8q0koFl9e8RmzPZoIeb1DufMJugcaXuK8AtxcVBazyK5xM2J7qmQ00kpYV0ZFkufk"
+  },
+  {
+    "sheet": "毒蛇",
+    "type": "毕业",
+    "gcd": "2.08",
+    "job": "毒蛇",
+    "ilvl": "730",
+    "link": "https://ffxivgearing.neko7ina.com/?eCAbyXLiSDQ2pZPSmCYcsg4J5Nl5jowUkL4GI",
+    "note": "兼容性：装备和饰品与毒蛇多种BIS，与忍者和远敏2.5BIS完全兼容\n4周毕业2.08次优，比最优差0.05%；\n信暴食物",
+    "new_link": "https://cycleapple.github.io/xiv-tc-gear/?s=8q0koFl9e8RlWHUlAZSkdCnuvg3rCnKpzXMapqvkjlp7yA8HPBzyvowuhi8HTHyvY"
+  },
+  {
+    "sheet": "忍者",
+    "type": "开荒",
+    "gcd": "2.12",
+    "job": "忍者",
+    "ilvl": "710",
+    "link": "https://ffxivgearing.neko7ina.com/?jFMLglWWnwd6FqSyZCocdA9QChL2FbXCXa9SNJF565BuHX12vuasgv7",
+    "note": "兼容性：兼容2.12开荒毒蛇；\n720点数耳饰换710HQ也兼容2.08开荒毒蛇\n信暴食物",
+    "new_link": "https://cycleapple.github.io/xiv-tc-gear/?s=y16QubtbaCz60MDQLEh7AyUN0ZrKAsxqnEKoDUUHNkOc0G2U9DxZkHl64qFuWMeuPn8Xfq8NE6f8PjFo3Ifre6jquatIlAvub8m"
+  },
+  {
+    "sheet": "忍者",
+    "type": "毕业",
+    "gcd": "2.12",
+    "job": "忍者",
+    "ilvl": "730",
+    "link": "https://ffxivgearing.neko7ina.com/?1GZg0ZYZl6IowQflhGUuhV7y38UIr1fs3Qgh",
+    "note": "兼容性：装备和饰品与毒蛇多种BIS，与远敏2.5BIS完全兼容\n信暴食物",
+    "new_link": "https://cycleapple.github.io/xiv-tc-gear/?s=8q0koFl9e8RmzPZoIeb1DufMJugcaXuK8AtxcURric6o9hHwPvbPGTA4SRbSq90FI"
+  },
+  {
+    "sheet": "机工",
+    "type": "开荒",
+    "gcd": "2.5",
+    "job": "机工",
+    "ilvl": "710",
+    "link": "https://ffxivgearing.neko7ina.com/?fNWw342UjYS8LVI4mJaiVHbD9Pr54TrYKwLIvtWCBuzGKngbvnvF7Rg",
+    "note": "兼容性：远敏除武器完全兼容；\n饰品与Viper多种开荒、忍者开荒完全兼容\n信暴食物",
+    "new_link": "https://cycleapple.github.io/xiv-tc-gear/?s=xy9ZyB8es11Yopub1FDPKgbDnpVqNZUaLlkBo5LSOd7pQJbVmiPSoEXKBIbytHpI9BN10EXFig3yrsbIHZAJ5RTSvp1OU7AJYWi"
+  },
+  {
+    "sheet": "机工",
+    "type": "毕业",
+    "gcd": "2.5",
+    "job": "机工",
+    "ilvl": "730",
+    "link": "https://ffxivgearing.neko7ina.com/?1LSW81CjwzVqPheiZFcJW09f801loCoa2YjM",
+    "note": "兼容性：饰品与Viper多种开荒，与忍者开荒完全兼容\n信暴食物",
+    "new_link": "https://cycleapple.github.io/xiv-tc-gear/?s=8q0koFl9e8RmzPZoIeb1DufMJugcaOtyXrIPiqgREUoVF3nfAuxpZOloCwfZdTGBM"
+  },
+  {
+    "sheet": "诗人",
+    "type": "开荒",
+    "gcd": "2.5",
+    "job": "诗人",
+    "ilvl": "710",
+    "link": "https://ffxivgearing.neko7ina.com/?jTRoGY6zTX18VxVmur4hcVQwUqhuJDH0fF93GomoDCmDiXrZAGPdGgJ",
+    "note": "兼容性：远敏除武器完全兼容；\n饰品与Viper多种开荒、忍者开荒完全兼容\n信暴食物",
+    "new_link": "https://cycleapple.github.io/xiv-tc-gear/?s=xy9ZyB8es11Yopub1FDPKgbDnpVqNZUaLlkBo5LSOd7pQJbVmiPSoEXKBIbytHpI9BN10EXFig3yrsbIHZAJ5RTdBxWEjQko5Oi"
+  },
+  {
+    "sheet": "诗人",
+    "type": "毕业",
+    "gcd": "2.5",
+    "job": "诗人",
+    "ilvl": "730",
+    "link": "https://ffxivgearing.neko7ina.com/?1LSW81Cjwzip5sz6ZHgm9BI0p4WJA1jzCD01",
+    "note": "兼容性：饰品与Viper多种BIS，与忍者BIS完全兼容\n若一定要打2.48，可以将2颗直击改为技速，\n比如点数戒指，除该戒指之外与其他远敏、忍者&毒蛇，依然兼容\n信暴食物",
+    "new_link": "https://cycleapple.github.io/xiv-tc-gear/?s=8q0koFl9e8RmzPZoIeb1DufMJugcaOtyXrIPiqgREUoVF3nfAuxpZOloCwfYGxWOC"
+  },
+  {
+    "sheet": "舞者",
+    "type": "开荒",
+    "gcd": "2.5",
+    "job": "舞者",
+    "ilvl": "710",
+    "link": "https://ffxivgearing.neko7ina.com/?d4BT3wEfDnc8jgIpOjZGVmGwNzeM3oJqM3iDoBzLSsi50ME5uMPeC47",
+    "note": "兼容性：远敏除武器完全兼容；\n饰品与Viper多种开荒、忍者开荒完全兼容\n信暴食物",
+    "new_link": "https://cycleapple.github.io/xiv-tc-gear/?s=xy9ZyB8es11Yopub1FDPKgbDnpVqNZUaLlkBo5LSOd7pQJbVmiPSoEXKBIbytHpI9BN10EXFig3yrsbIHZAJ5RTdBxWEjRfyMSS"
+  },
+  {
+    "sheet": "舞者",
+    "type": "毕业",
+    "gcd": "2.5",
+    "job": "舞者",
+    "ilvl": "730",
+    "link": "https://ffxivgearing.neko7ina.com/?1LSW81CjwAnjd98iHVrS3ZTgMWvcYL9IVdyf",
+    "note": "兼容性：饰品与Viper多种开荒，与忍者开荒完全兼容\n信暴食物",
+    "new_link": "https://cycleapple.github.io/xiv-tc-gear/?s=8q0koFl9e8RmzPZoIeb1DufMJugcaOtyXrIPiqgREUoVF3nfAuxpZOloCwfZBIDTc"
+  },
+  {
+    "sheet": "画家",
+    "type": "开荒",
+    "gcd": "2.45",
+    "job": "",
+    "ilvl": "710",
+    "link": "https://ffxivgearing.neko7ina.com/?el0bRn74xrBJiSxpBVUmu6nLNo0dW4atHVoqyrVnE7286UYJc8kCVgXCr",
+    "note": "兼容性：除武器外与所有法系开荒装兼容；\n2.45画家改2.48画家需拆一颗武器咏唱石头\n信暴食物\n最高期望，需要特化手法，思路同2.46，如果没打过特化轴建议2.48",
+    "new_link": "https://cycleapple.github.io/xiv-tc-gear/?s=x4RvTdNB18NF3XRM3QQXDlYLrMxKPaOgpD1uVEiWPbkd868Ti4k7HLdQRhsTbGZca103FGzsbUC7g6jdRC7KG8KN2BbWgsmiluO"
+  },
+  {
+    "sheet": "画家",
+    "type": "开荒",
+    "gcd": "2.48",
+    "job": "",
+    "ilvl": "710",
+    "link": "https://ffxivgearing.neko7ina.com/?6sAYd6t9I3UTcuoi4xRVRNXpGUvUIyY7cBEmOKv6vDi4S1rbtny1zd",
+    "note": "兼容性：除武器外与所有法系开荒装兼容；\n2.48画家改2.45画家需换一颗武器咏唱石头\n信暴食物",
+    "new_link": "https://cycleapple.github.io/xiv-tc-gear/?s=7fgbbKR2MGKQST2IKd5AdPGhTpIPLIMoVopFVOovGGLs0c35tS87fcFoetpn89U90gRoWLPYEdJZ3Vd9M6dMxySGrlmn8e"
+  },
+  {
+    "sheet": "画家",
+    "type": "毕业",
+    "gcd": "2.5",
+    "job": "",
+    "ilvl": "730",
+    "link": "https://ffxivgearing.neko7ina.com/?2F5HjeNqI7NGNt2Lph6PgQ7AWtOS5MYenBr5",
+    "note": "兼容性：与其他法系装备完全相同\n信暴食物",
+    "new_link": "https://cycleapple.github.io/xiv-tc-gear/?s=8Dp1dLcZ7E6fVW58dNPSzQtHop7Q8jgTqLshRmV5F9bXHETBsLMFbifGgpO8jMpx8"
+  },
+  {
+    "sheet": "赤魔",
+    "type": "开荒",
+    "gcd": "2.48",
+    "job": "赤魔",
+    "ilvl": "710",
+    "link": "https://ffxivgearing.neko7ina.com/?5xnF9GMm81uJw4Ez3Ha2A4GSrGIB5vOHKlQ2I89pho61X2dUD6sXxQ",
+    "note": "兼容性：除武器外与所有法系开荒装兼容；\n信暴食物\n",
+    "new_link": "https://cycleapple.github.io/xiv-tc-gear/?s=7fgbbKR2MGKQST2IKd5AdPGhTpIPLIMoVopFVOovGGLs0c35tS87fcFoetpn89U90gRoWLPYEdJZ3Vd9M6SGoE3gHBMaVM"
+  },
+  {
+    "sheet": "赤魔",
+    "type": "毕业",
+    "gcd": "2.5",
+    "job": "赤魔",
+    "ilvl": "730",
+    "link": "https://ffxivgearing.neko7ina.com/?2F5HjeNqI7gDoXuUNPFE2UTxx53BpFDmphhA",
+    "note": "兼容性：与其他法系装备完全相同\n信暴食物",
+    "new_link": "https://cycleapple.github.io/xiv-tc-gear/?s=8Dp1dLcZ7E6fVW58dNPSzQtHop7Q8jgTqLshRmV5F9bXHETBsLMFbifGgpO7Rc3ZQ"
+  },
+  {
+    "sheet": "召唤",
+    "type": "开荒",
+    "gcd": "2.45",
+    "job": "召唤",
+    "ilvl": "710",
+    "link": "https://ffxivgearing.neko7ina.com/?jPhfsDIfOhfBdGPyiBrnDIifHZKMHkXJydT6CDVSk6NAdooH4kSf10KDn",
+    "note": "兼容性：除武器外与所有法系开荒装兼容；\n2.45召唤改2.48召唤需拆一颗武器咏唱石头\n信暴食物",
+    "new_link": "https://cycleapple.github.io/xiv-tc-gear/?s=x4RvTdNB18NF3XRM3QQXDlYLrMxKPaOgpD1uVEiWPbkd868Ti4k7HLdQRhsTbGZca103FGzsbUC7g6jdRC7KG8KN2BIPks277W2"
+  },
+  {
+    "sheet": "召唤",
+    "type": "开荒",
+    "gcd": "2.48",
+    "job": "召唤",
+    "ilvl": "710",
+    "link": "https://ffxivgearing.neko7ina.com/?4sD8IvrkRohjRwiwN7X6HoOUdwIYdsjU1jpucJoiBFFwYFguxdrz4l",
+    "note": "兼容性：除武器外与所有法系开荒装兼容；\n2.48召唤改2.45召唤需换一颗武器咏唱石头\n信暴食物",
+    "new_link": "https://cycleapple.github.io/xiv-tc-gear/?s=7fgbbKR2MGKQST2IKd5AdPGhTpIPLIMoVopFVOovGGLs0c35tS87fcFoetpn89U90gRoWLPYEdJZ3Vd9M6dMy5LKr1b9zs"
+  },
+  {
+    "sheet": "召唤",
+    "type": "毕业",
+    "gcd": "2.48",
+    "job": "召唤",
+    "ilvl": "730",
+    "link": "https://ffxivgearing.neko7ina.com/?lU0DbcbpCrl5uEW1ypKPPNpeSvJwzJkRkOCeB",
+    "note": "兼容性：与其他法系装备完全相同\n直信食物直信食物直信食物",
+    "new_link": "https://cycleapple.github.io/xiv-tc-gear/?s=8Dp1dLcZ7E6fVW58dNPSzQtHop7Q8jgTqLshRmV5F9bXHETBsLMFbifGNiS7ZBbHk"
+  },
+  {
+    "sheet": "黑魔",
+    "type": "开荒",
+    "gcd": "",
+    "job": "黑魔",
+    "ilvl": "710",
+    "link": "https://ffxivgearing.neko7ina.com/?5ExGJGpY6mleBmguoEJFQ1u8ONNUc4X44FEbnVhLhs7T0NyFvlwrbIoqmR6",
+    "note": "兼容性：除武器外与所有法系开荒装兼容；\n暴咏食物\n710HQ套不能走低暴路线，走1047/2.42路线更平滑，且开荒+毕业轴变化小。\n高速方案：首周换戒指可适配后续高速路线；",
+    "new_link": "https://cycleapple.github.io/xiv-tc-gear/?s=x4RvTdNB18NF3XRM3QQXDlYLrMxKPaOgpD1uVEiWPbkd868Ti4k7HLdQRhsTbGZca103FGzsbUC7g6jdRC7KG8KOvazN5qLNuOi"
+  },
+  {
+    "sheet": "黑魔",
+    "type": "毕业",
+    "gcd": "",
+    "job": "黑魔",
+    "ilvl": "730",
+    "link": "https://ffxivgearing.neko7ina.com/?u1QIxuTwGlbU28roK45A39byFDM7FmR2TPj5a",
+    "note": "兼容性：与其他法系装备兼容\n暴咏食物\n推荐，最大暴击\n开荒和毕业相同速度，且副属性收益优秀，非特化轴前提下最推荐的BIS",
+    "new_link": "https://cycleapple.github.io/xiv-tc-gear/?s=8Dp1dLcZ7E6fVW58dNPSzQtHop7Q8jgTqLshRmVFZ1xZ2WrRy8HR5xkaMgX4JF4zY"
+  },
+  {
+    "sheet": "黑魔",
+    "type": "毕业",
+    "gcd": "",
+    "job": "黑魔",
+    "ilvl": "730",
+    "link": "https://ffxivgearing.neko7ina.com/?nus8LguQhWIegoXTL528zYvNN0uyzfSUr4IWo",
+    "note": "兼容性：与其他法系装备完全相同\n暴咏食物",
+    "new_link": "https://cycleapple.github.io/xiv-tc-gear/?s=8Dp1dLcZ7E6fVW58dNPSzQtHop7Q8jgTqLshRmV5F9bXHETBsLMFbifGNiS7UPO58"
+  },
+  {
+    "sheet": "黑魔",
+    "type": "毕业",
+    "gcd": "",
+    "job": "黑魔",
+    "ilvl": "730",
+    "link": "https://ffxivgearing.neko7ina.com/?1I18vK9Af79M8froI046MmZx4QqucZ0syBso",
+    "note": "兼容性：无\n最大咏速+最低暴击；与其他法系大多数装备不同，相同部位镶嵌不同，不兼容\n咏直食物",
+    "new_link": "https://cycleapple.github.io/xiv-tc-gear/?s=8R7uiLMZ8wW3F2oGUcZ4SEWsUZciuNerFCJVGXe8NVGB5dbYbT6iaQqRWNDeZJWGO"
+  }
+]

@@ -44,22 +44,22 @@ description: FF14 至天之座零式輕量級各職業配裝方案
 | 畢業 | 2.14 | [查看配裝](https://cycleapple.github.io/xiv-tc-gear/?s=8K6mDbgkbPJUsMqgsiKXRkXjftMJpK2vpy5z3bdjf9OZA9hLATk6xZtVUsCu4RAou) | 相容性：相容1.94最优武僧，相容2.49鐮刀首飾 2.14次优武士 直信食物 |
 | 畢業 | 2.17 | [查看配裝](https://cycleapple.github.io/xiv-tc-gear/?s=8wHFO9k31MoB317CHp05ppFWUqjLvaMX1b2kaYU7hAh0WR7zlRs1ubGGnPcvmcF2m) | 相容性：完美相容1.93最优武僧；2.5龍騎鐮刀首飾 改2.14武士需要换裝備和鑲嵌 2.17最优 直信食物 |
 
-#### 蝰蛇劍士
+#### 毒蛇劍士
 
 | 類型 | GCD | 配裝 | 備註 |
 |------|-----|------|------|
 | 開荒 | 2.12 | [查看配裝](https://cycleapple.github.io/xiv-tc-gear/?s=y16QubtbaCz60MDQLEh7AyUN0ZrKAsxqnEKoDUUHNkOc0G2U9DxZkHl64qFuWMeuPn8Xfq8NE6f8PjFo3Ifre6k5RRfPvKr2jvg) | 相容性：相容忍者 信暴食物 |
-| 開荒 | 2.08 | [查看配裝](https://cycleapple.github.io/xiv-tc-gear/?s=1mBcrpmMUr0XTM3qcehE1LRQnJiazepV8DeXJGFQDLIosaO39YWi34xMXHdj0uwHzEGK9GJECYuD3N7tQKIGizOWGv5Vxv7DhLIy3gy) | 相容性：相容忍者，可以换点数耳墜但不裝備； 只玩蝰蛇可以换点数戒指 暴速食物 |
-| 畢業 | 2.12 | [查看配裝](https://cycleapple.github.io/xiv-tc-gear/?s=8q0koFl9e8RmzPZoIeb1DufMJugcaXuK8AtxcURric6o9hHwPvbPGTA4SRbTbMVeC) | 相容性：裝備和飾品与蝰蛇多种BIS,与忍者和遠敏2.5BIS完全相容 6週畢業2.12最优 信暴食物 |
-| 畢業 | 2.08 | [查看配裝](https://cycleapple.github.io/xiv-tc-gear/?s=8q0koFl9e8RmzPZoIeb1DufMJugcaXuK8AtxcVBazyK5xM2J7qmQ00kpYV0ZFkufk) | 相容性：裝備和飾品与蝰蛇多种BIS，与忍者和遠敏2.5BIS完全相容 8週畢業2.08 信暴食物 |
-| 畢業 | 2.08 | [查看配裝](https://cycleapple.github.io/xiv-tc-gear/?s=8q0koFl9e8RlWHUlAZSkdCnuvg3rCnKpzXMapqvkjlp7yA8HPBzyvowuhi8HTHyvY) | 相容性：裝備和飾品与蝰蛇多种BIS，与忍者和遠敏2.5BIS完全相容 4週畢業2.08次优，比最优差0.05%； 信暴食… |
+| 開荒 | 2.08 | [查看配裝](https://cycleapple.github.io/xiv-tc-gear/?s=1mBcrpmMUr0XTM3qcehE1LRQnJiazepV8DeXJGFQDLIosaO39YWi34xMXHdj0uwHzEGK9GJECYuD3N7tQKIGizOWGv5Vxv7DhLIy3gy) | 相容性：相容忍者，可以换点数耳墜但不裝備； 只玩毒蛇可以换点数戒指 暴速食物 |
+| 畢業 | 2.12 | [查看配裝](https://cycleapple.github.io/xiv-tc-gear/?s=8q0koFl9e8RmzPZoIeb1DufMJugcaXuK8AtxcURric6o9hHwPvbPGTA4SRbTbMVeC) | 相容性：裝備和飾品与毒蛇多种BIS,与忍者和遠敏2.5BIS完全相容 6週畢業2.12最优 信暴食物 |
+| 畢業 | 2.08 | [查看配裝](https://cycleapple.github.io/xiv-tc-gear/?s=8q0koFl9e8RmzPZoIeb1DufMJugcaXuK8AtxcVBazyK5xM2J7qmQ00kpYV0ZFkufk) | 相容性：裝備和飾品与毒蛇多种BIS，与忍者和遠敏2.5BIS完全相容 8週畢業2.08 信暴食物 |
+| 畢業 | 2.08 | [查看配裝](https://cycleapple.github.io/xiv-tc-gear/?s=8q0koFl9e8RlWHUlAZSkdCnuvg3rCnKpzXMapqvkjlp7yA8HPBzyvowuhi8HTHyvY) | 相容性：裝備和飾品与毒蛇多种BIS，与忍者和遠敏2.5BIS完全相容 4週畢業2.08次优，比最优差0.05%； 信暴食… |
 
 #### 忍者
 
 | 類型 | GCD | 配裝 | 備註 |
 |------|-----|------|------|
-| 開荒 | 2.12 | [查看配裝](https://cycleapple.github.io/xiv-tc-gear/?s=y16QubtbaCz60MDQLEh7AyUN0ZrKAsxqnEKoDUUHNkOc0G2U9DxZkHl64qFuWMeuPn8Xfq8NE6f8PjFo3Ifre6jquatIlAvub8m) | 相容性：相容2.12開荒蝰蛇； 720点数耳饰换710HQ也相容2.08開荒蝰蛇 信暴食物 |
-| 畢業 | 2.12 | [查看配裝](https://cycleapple.github.io/xiv-tc-gear/?s=8q0koFl9e8RmzPZoIeb1DufMJugcaXuK8AtxcURric6o9hHwPvbPGTA4SRbSq90FI) | 相容性：裝備和飾品与蝰蛇多种BIS，与遠敏2.5BIS完全相容 信暴食物 |
+| 開荒 | 2.12 | [查看配裝](https://cycleapple.github.io/xiv-tc-gear/?s=y16QubtbaCz60MDQLEh7AyUN0ZrKAsxqnEKoDUUHNkOc0G2U9DxZkHl64qFuWMeuPn8Xfq8NE6f8PjFo3Ifre6jquatIlAvub8m) | 相容性：相容2.12開荒毒蛇； 720点数耳饰换710HQ也相容2.08開荒毒蛇 信暴食物 |
+| 畢業 | 2.12 | [查看配裝](https://cycleapple.github.io/xiv-tc-gear/?s=8q0koFl9e8RmzPZoIeb1DufMJugcaXuK8AtxcURric6o9hHwPvbPGTA4SRbSq90FI) | 相容性：裝備和飾品与毒蛇多种BIS，与遠敏2.5BIS完全相容 信暴食物 |
 
 ### 遠程 DPS
 
