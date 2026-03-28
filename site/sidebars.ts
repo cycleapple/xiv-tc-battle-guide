@@ -19,6 +19,20 @@ const sidebars: SidebarsConfig = {
             'savage/light/m4s-2',
           ],
         },
+        {
+          type: 'category',
+          label: '中量級',
+          items: [
+            'savage/cruiser/index',
+          ],
+        },
+        {
+          type: 'category',
+          label: '重量級',
+          items: [
+            'savage/heavy/index',
+          ],
+        },
       ],
     },
   ],
