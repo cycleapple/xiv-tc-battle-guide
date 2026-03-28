@@ -106,6 +106,21 @@ const config: Config = {
           position: 'left',
           label: '攻略指南',
         },
+        {
+          href: 'https://cycleapple.github.io/xiv-tc-toolbox/',
+          label: '返回工具箱',
+          position: 'right',
+        },
+        {
+          href: 'https://discord.gg/X556xjySDG',
+          label: '加入 Discord 社群',
+          position: 'right',
+        },
+        {
+          href: 'https://portaly.cc/thecy',
+          label: '支持作者',
+          position: 'right',
+        },
       ],
     },
     footer: {
