@@ -1,12 +1,12 @@
 ---
 sidebar_position: 3
 title: 輕量級3 — 野蠻炸彈
-description: 阿卡狄亞零式登天鬥技場 輕量級3（M3S）攻略
+description: 阿卡狄亞零式登天鬥技場 輕量級3攻略
 ---
 
 # 阿卡狄亞零式登天鬥技場 輕量級3
 
-**BOSS：野蠻炸彈（Brute Bomber）**
+**BOSS：野蠻炸彈**
 
 :::info 參考攻略
 本攻略基於 Game8 ぬけまる式整理，適用於日服 Elemental / Mana 招募板主流打法。
@@ -58,13 +58,13 @@ description: 阿卡狄亞零式登天鬥技場 輕量級3（M3S）攻略
 
 ## 機制攻略
 
-### 野蠻碎擊（Smash Impact）
+### 野蠻碎擊
 
 物理屬性全體攻擊。多段命中攻擊，服用禁藥後命中次數增加。未服用禁藥狀態下為4段。
 
 ---
 
-### 拳面猛擊（Knuckle Part）
+### 拳面猛擊
 
 <video controls width="100%">
   <source src="https://img.game8.jp/10315140/e9a82ac9995b52ae1465d7be615974f4.mp4/show" type="video/mp4" />
@@ -76,7 +76,7 @@ description: 阿卡狄亞零式登天鬥技場 輕量級3（M3S）攻略
 
 ---
 
-### 四分/八分雙重金臂鉤（Double Lariat）
+### 四分/八分雙重金臂鉤
 
 **4路模式** — 配對扇形攻擊：
 
@@ -106,7 +106,7 @@ description: 阿卡狄亞零式登天鬥技場 輕量級3（M3S）攻略
 
 ---
 
-### 四分/八分強震衝（Power Dive）
+### 四分/八分強震衝
 
 **4衝擊：**
 
@@ -136,7 +136,7 @@ BOSS面向方向的外圍產生距離衰減攻擊，之後四分是2人分攤、
 
 ---
 
-### 野蠻爆炸 → 致命毒霧（Bombarian Bomb → Green Mist）
+### 野蠻爆炸 → 致命毒霧
 
 ![塔①](https://img.game8.jp/10316010/10b9a2d35b09afab311e2e45847b8ded.png/original)
 
@@ -166,7 +166,7 @@ BOSS面向方向的外圍產生距離衰減攻擊，之後四分是2人分攤、
 
 ---
 
-### 服用禁藥（Doping）
+### 服用禁藥
 
 BOSS移動到中央進行服用禁藥，各攻擊得到強化。服用禁藥本身沒有攻擊判定，繼續攻擊即可。
 
@@ -232,7 +232,7 @@ BOSS雙臂纏繞火焰時，圓形範圍變為甜甜圈範圍攻擊。
 
 ---
 
-### 組隊戰 + 鎖鏈生死戰 + 金臂鉤連擊（Tag Match + Chain Death Match + Lariat Combination）
+### 組隊戰 + 鎖鏈生死戰 + 金臂鉤連擊
 
 ![鎖鏈①](https://img.game8.jp/10316376/0d88655f229ef5a3d44afebac0bfd3d7.png/original)
 
@@ -250,7 +250,7 @@ BOSS雙臂纏繞火焰時，圓形範圍變為甜甜圈範圍攻擊。
 
 ---
 
-### 零式引信炸彈（Raid Fuse Bomb）
+### 零式引信炸彈
 
 **TH長引線模式：**
 
@@ -292,7 +292,7 @@ BOSS雙臂纏繞火焰時，圓形範圍變為甜甜圈範圍攻擊。
 
 ---
 
-### 引信區域 + 野蠻火焰（Fuse Field + Bombarian Fire）
+### 引信區域 + 野蠻火焰
 
 ![引信區域](https://img.game8.jp/10364403/62c55b684aa7f9234305fb56d816840f.jpeg/original)
 
@@ -304,7 +304,7 @@ BOSS雙臂纏繞火焰時，圓形範圍變為甜甜圈範圍攻擊。
 
 ---
 
-### 超豪華野蠻大亂擊（Bombarian Special）
+### 超豪華野蠻大亂擊
 
 ![特技①](https://img.game8.jp/10317442/204c608eed819a90f44ef02c684ea82b.jpeg/original)
 
@@ -364,7 +364,7 @@ BOSS雙臂纏繞火焰時，圓形範圍變為甜甜圈範圍攻擊。
 
 ---
 
-### 設置引信 + 野蠻旋火（Attach Fuse Bomb + Spinning Fire）
+### 設置引信 + 野蠻旋火
 
 <video controls width="100%">
   <source src="https://img.game8.jp/10317577/1ea66fc25778f95fd35349fea38b4aab.mp4/show" type="video/mp4" />
@@ -377,7 +377,7 @@ BOSS雙臂纏繞火焰時，圓形範圍變為甜甜圈範圍攻擊。
 
 ---
 
-### 野蠻爆炸 → 金臂鉤連擊（Bombarian Bomb → Lariat Combination）
+### 野蠻爆炸 → 金臂鉤連擊
 
 <video controls width="100%">
   <source src="https://img.game8.jp/10315963/740e80ef4530a3dcdc99ee35b3e16727.mp4/show" type="video/mp4" />
@@ -387,7 +387,7 @@ BOSS雙臂纏繞火焰時，圓形範圍變為甜甜圈範圍攻擊。
 
 ---
 
-### 究極超豪華野蠻大亂擊（Ultimate Bombarian Special）
+### 究極超豪華野蠻大亂擊
 
 狂暴攻擊。但詠唱完成後不會立即滅團，而是5段全體→圓形範圍→甜甜圈的超豪華野蠻大亂擊後才會狂暴。詠唱完成後約還有15秒可以輸出，堅持到最後繼續攻擊！
 

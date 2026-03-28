@@ -11,8 +11,11 @@ const config: Config = {
     v4: true,
   },
 
-  url: 'https://your-docusaurus-site.example.com',
-  baseUrl: '/',
+  url: 'https://cycleapple.github.io',
+  baseUrl: '/xiv-tc-battle-guide/',
+
+  organizationName: 'cycleapple',
+  projectName: 'xiv-tc-battle-guide',
 
   onBrokenLinks: 'throw',
 

@@ -1,12 +1,12 @@
 ---
 sidebar_position: 2
 title: 輕量級2 — 蜂蜂小甜心
-description: 阿卡狄亞零式登天鬥技場 輕量級2（M2S）攻略
+description: 阿卡狄亞零式登天鬥技場 輕量級2攻略
 ---
 
 # 阿卡狄亞零式登天鬥技場 輕量級2
 
-**BOSS：蜂蜂小甜心（Honey B. Lovely）**
+**BOSS：蜂蜂小甜心**
 
 :::info 參考攻略
 本攻略基於 Game8 ぬけまる式整理，適用於日服 Elemental / Mana 招募板主流打法。
