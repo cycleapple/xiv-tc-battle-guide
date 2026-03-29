@@ -24,11 +24,11 @@ title: 首頁
 
 - **阿卡狄亞零式登天鬥技場（中量級）**
   - [配裝推薦](savage/cruiser/gearing)
-  - [中量級1 — 高科技管理者](savage/cruiser/m5s)
-  - [中量級2 — 染色黏黏慕斯怪](savage/cruiser/m6s)
-  - [中量級3 — 魔石蠍](savage/cruiser/m7s)
-  - [中量級4（前半）— 呼嚕呼嚕噗嗚](savage/cruiser/m8s-1)
-  - [中量級4（後半）— 呼嚕呼嚕噗嗚](savage/cruiser/m8s-2)
+  - [中量級1 — 青蛙舞者](savage/cruiser/m5s)
+  - [中量級2 — 狂熱糖潮](savage/cruiser/m6s)
+  - [中量級3 — 野蠻恨心](savage/cruiser/m7s)
+  - [中量級4（前半）— 劍嚎](savage/cruiser/m8s-1)
+  - [中量級4（後半）— 劍嚎](savage/cruiser/m8s-2)
 
 - **阿卡狄亞零式登天鬥技場（輕量級）**
   - [配裝推薦](savage/light/gearing)
