@@ -14,6 +14,22 @@ title: 首頁
 
 ### 零式副本
 
+- **阿卡狄亞零式登天鬥技場（重量級）**
+  - [配裝推薦](savage/heavy/gearing)
+  - [重量級1 — 致命美人](savage/heavy/m9s)
+  - [重量級2 — 深藍＆熾紅](savage/heavy/m10s)
+  - [重量級3 — 天頂的主宰](savage/heavy/m11s)
+  - [重量級4（前半）— 霸王](savage/heavy/m12s-1)
+  - [重量級4（後半）— 霸王](savage/heavy/m12s-2)
+
+- **阿卡狄亞零式登天鬥技場（中量級）**
+  - [配裝推薦](savage/cruiser/gearing)
+  - [中量級1 — 高科技管理者](savage/cruiser/m5s)
+  - [中量級2 — 染色黏黏慕斯怪](savage/cruiser/m6s)
+  - [中量級3 — 魔石蠍](savage/cruiser/m7s)
+  - [中量級4（前半）— 呼嚕呼嚕噗嗚](savage/cruiser/m8s-1)
+  - [中量級4（後半）— 呼嚕呼嚕噗嗚](savage/cruiser/m8s-2)
+
 - **阿卡狄亞零式登天鬥技場（輕量級）**
   - [配裝推薦](savage/light/gearing)
   - [輕量級1 — 黑貓](savage/light/m1s)
@@ -35,7 +51,13 @@ title: 首頁
 | 日文 | 繁體中文 | 英文 |
 |------|---------|------|
 | 至天の座アルカディア零式 | 阿卡狄亞零式登天鬥技場 | AAC (Arcadion Savage) |
+| ヘビー級 | 重量級 | Heavyweight |
+| クルーザー級 | 中量級 | Cruiserweight |
 | ライトヘビー級 | 輕量級 | Light-heavyweight |
+| ヴァンプ・ファタール | 致命美人 | Vamp Fatale |
+| ディープブルー＆レッドホット | 深藍＆熾紅 | Deep Blue & Red Hot |
+| キング・オブ・アルカディア | 天頂的主宰 | King of Arcadia |
+| ザ・タイラント | 霸王 | The Tyrant |
 | ブラックキャット | 黑貓 | Black Cat |
 | ハニー・B・ラブリー | 蜂蜂小甜心 | Honey B. Lovely |
 | ブルートボンバー | 野蠻炸彈 | Brute Bomber |

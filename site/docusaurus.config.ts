@@ -50,6 +50,8 @@ const config: Config = {
     },
   ],
 
+  clientModules: ['./src/clientModules/clipboardFix.js'],
+
   i18n: {
     defaultLocale: 'zh-Hant',
     locales: ['zh-Hant'],
