@@ -18,9 +18,9 @@ title: 首頁
   - [配裝推薦](savage/heavy/gearing)
   - [重量級1 — 致命美人](savage/heavy/m9s)
   - [重量級2 — 深藍＆熾紅](savage/heavy/m10s)
-  - [重量級3 — 天頂的主宰](savage/heavy/m11s)
-  - [重量級4（前半）— 霸王](savage/heavy/m12s-1)
-  - [重量級4（後半）— 霸王](savage/heavy/m12s-2)
+  - [重量級3 — 霸王](savage/heavy/m11s)
+  - [重量級4（前半）— 林德布魯姆](savage/heavy/m12s-1)
+  - [重量級4（後半）— 林德布魯姆](savage/heavy/m12s-2)
 
 - **阿卡狄亞零式登天鬥技場（中量級）**
   - [配裝推薦](savage/cruiser/gearing)
@@ -56,8 +56,8 @@ title: 首頁
 | ライトヘビー級 | 輕量級 | Light-heavyweight |
 | ヴァンプ・ファタール | 致命美人 | Vamp Fatale |
 | ディープブルー＆レッドホット | 深藍＆熾紅 | Deep Blue & Red Hot |
-| キング・オブ・アルカディア | 天頂的主宰 | King of Arcadia |
 | ザ・タイラント | 霸王 | The Tyrant |
+| リンドブルム | 林德布魯姆 | Lindwurm |
 | ブラックキャット | 黑貓 | Black Cat |
 | ハニー・B・ラブリー | 蜂蜂小甜心 | Honey B. Lovely |
 | ブルートボンバー | 野蠻炸彈 | Brute Bomber |
