@@ -133,8 +133,8 @@ def asvel_decode(code):
             rings_inversed = read_bool()
             first = False
         else:
-            is_last = (val == 0)
             delta = read(gear_id_delta_range)
+            is_last = (val == 0)
             if is_last:
                 delta -= 1
             item_id += delta * gear_id_delta_dir
@@ -143,11 +143,6 @@ def asvel_decode(code):
 
     if rings_inversed != (gear_id_delta_dir == -1):
         gears.reverse()
-
-    # Fix: Asvel format stores item IDs offset by -1 from actual game IDs
-    for g in gears:
-        if g['id'] > 0:
-            g['id'] += 1
 
     return {
         'job': job_name,
