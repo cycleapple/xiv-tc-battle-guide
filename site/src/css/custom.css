@@ -97,6 +97,64 @@ pre code {
   line-height: 1.6;
 }
 
+/* FFXIV macro blocks: reference-site-like proportional text preview */
+.ffxiv-macro-block {
+  position: relative;
+  margin: 1rem 0 1.25rem;
+  padding: 1rem;
+  overflow-x: auto;
+  color: #202020;
+  background: #eeeeee;
+  border: 1px solid var(--ifm-color-emphasis-300);
+  border-radius: 6px;
+}
+
+.ffxiv-macro-block__copy {
+  position: sticky;
+  left: 100%;
+  top: 0;
+  float: right;
+  margin-left: 0.75rem;
+  padding: 0.25rem 0.65rem;
+  color: var(--ifm-color-primary);
+  background: rgba(255, 255, 255, 0.92);
+  border: 1px solid var(--ifm-color-emphasis-300);
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 0.85rem;
+  line-height: 1.4;
+}
+
+.ffxiv-macro-block__copy:hover {
+  background: #ffffff;
+}
+
+.ffxiv-macro-block__text {
+  width: max-content;
+  min-width: 100%;
+  font-family: Arial, 'Helvetica Neue', 'Hiragino Kaku Gothic ProN', Meiryo, sans-serif;
+  font-size: 14px;
+  line-height: 1.65;
+  letter-spacing: 0;
+  white-space: pre;
+}
+
+[data-theme='dark'] .ffxiv-macro-block {
+  color: #f2f2f2;
+  background: #262936;
+  border-color: var(--ifm-color-emphasis-200);
+}
+
+[data-theme='dark'] .ffxiv-macro-block__copy {
+  color: var(--ifm-color-primary-lightest);
+  background: rgba(38, 41, 54, 0.94);
+  border-color: var(--ifm-color-emphasis-300);
+}
+
+[data-theme='dark'] .ffxiv-macro-block__copy:hover {
+  background: #303445;
+}
+
 /* Table styling */
 table {
   display: table;

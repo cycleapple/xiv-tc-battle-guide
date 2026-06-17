@@ -5,6 +5,13 @@ const sidebars: SidebarsConfig = {
     'intro',
     {
       type: 'category',
+      label: '滅級任務',
+      items: [
+        'chaotic/cloud-of-darkness',
+      ],
+    },
+    {
+      type: 'category',
       label: '阿卡狄亞零式登天鬥技場',
       items: [
         {

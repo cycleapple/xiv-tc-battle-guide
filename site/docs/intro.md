@@ -12,6 +12,10 @@ title: 首頁
 
 ## 目前收錄內容
 
+### 滅級任務
+
+- [滅・暗黑之雲激鬥戰](chaotic/cloud-of-darkness)
+
 ### 零式副本
 
 - **阿卡狄亞零式登天鬥技場（重量級）**
@@ -62,6 +66,8 @@ title: 首頁
 | ハニー・B・ラブリー | 蜂蜂小甜心 | Honey B. Lovely |
 | ブルートボンバー | 野蠻炸彈 | Brute Bomber |
 | ウィキッドサンダー | 狡雷 | Wicked Thunder |
+| 滅暗闇の雲激闘戦 | 滅・暗黑之雲激鬥戰 | Cloud of Darkness (Chaotic) |
+| 暗闇の雲 | 暗黑之雲 | Cloud of Darkness |
 
 ## 常用角色縮寫
 
