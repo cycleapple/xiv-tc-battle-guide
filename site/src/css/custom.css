@@ -155,6 +155,250 @@ pre code {
   background: #303445;
 }
 
+/* Cloud of Darkness WTFDIG cheatsheet */
+.cod-cheatsheet-page {
+  max-width: 1180px;
+  margin: 0 auto;
+  padding: 2rem 1rem 4rem;
+}
+
+.cod-cheat-header {
+  display: flex;
+  justify-content: space-between;
+  gap: 1.5rem;
+  align-items: flex-start;
+  margin-bottom: 1.25rem;
+}
+
+.cod-cheat-eyebrow {
+  margin-bottom: 0.35rem;
+  color: var(--ifm-color-primary);
+  font-weight: 700;
+}
+
+.cod-cheat-header h1 {
+  margin-bottom: 0.6rem;
+}
+
+.cod-cheat-header p {
+  max-width: 760px;
+  margin: 0;
+  color: var(--ifm-color-emphasis-700);
+}
+
+.cod-cheat-back,
+.cod-cheat-links button,
+.cod-cheat-controls button {
+  border: 1px solid var(--ifm-color-emphasis-300);
+  border-radius: 6px;
+}
+
+.cod-cheat-back {
+  flex: 0 0 auto;
+  padding: 0.45rem 0.75rem;
+  color: var(--ifm-color-content);
+  text-decoration: none;
+}
+
+.cod-cheat-controls,
+.cod-cheat-summary,
+.cod-cheat-swaps,
+.cod-cheat-empty {
+  background: var(--ifm-background-surface-color);
+  border: 1px solid var(--ifm-color-emphasis-200);
+  border-radius: 8px;
+}
+
+.cod-cheat-controls {
+  display: grid;
+  grid-template-columns: minmax(190px, 1.2fr) minmax(110px, 0.7fr) minmax(220px, 1fr) minmax(150px, 0.7fr);
+  gap: 1rem;
+  align-items: end;
+  padding: 1rem;
+  margin-bottom: 1rem;
+}
+
+.cod-cheat-controls label,
+.cod-cheat-controls > div {
+  display: grid;
+  gap: 0.35rem;
+}
+
+.cod-cheat-controls span {
+  color: var(--ifm-color-emphasis-700);
+  font-size: 0.9rem;
+  font-weight: 700;
+}
+
+.cod-cheat-controls select {
+  width: 100%;
+  min-height: 38px;
+  color: var(--ifm-color-content);
+  background: var(--ifm-background-color);
+  border: 1px solid var(--ifm-color-emphasis-300);
+  border-radius: 6px;
+  padding: 0.35rem 0.5rem;
+}
+
+.cod-cheat-segment,
+.cod-cheat-role-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+}
+
+.cod-cheat-role-grid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(42px, 1fr));
+}
+
+.cod-cheat-controls button,
+.cod-cheat-links button {
+  color: var(--ifm-color-content);
+  background: var(--ifm-background-color);
+  cursor: pointer;
+  min-height: 36px;
+  padding: 0.35rem 0.65rem;
+}
+
+.cod-cheat-controls button.is-active {
+  color: #fff;
+  background: var(--ifm-color-primary);
+  border-color: var(--ifm-color-primary);
+}
+
+.cod-cheat-toggle {
+  align-self: center;
+  grid-template-columns: auto 1fr;
+  align-items: center;
+  margin-top: 1.4rem;
+}
+
+.cod-cheat-toggle input {
+  width: 18px;
+  height: 18px;
+}
+
+.cod-cheat-summary {
+  padding: 1rem;
+  margin-bottom: 1rem;
+}
+
+.cod-cheat-summary h2 {
+  margin-bottom: 0.35rem;
+  font-size: 1.35rem;
+}
+
+.cod-cheat-summary p {
+  white-space: pre-wrap;
+  margin-bottom: 0.75rem;
+}
+
+.cod-cheat-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  align-items: center;
+}
+
+.cod-cheat-links a,
+.cod-cheat-links button {
+  display: inline-flex;
+  align-items: center;
+  min-height: 34px;
+  padding: 0.35rem 0.6rem;
+}
+
+.cod-cheat-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 0.8rem;
+}
+
+.cod-cheat-step {
+  min-width: 0;
+  padding: 0.9rem;
+  background: var(--ifm-background-surface-color);
+  border: 1px solid var(--ifm-color-emphasis-200);
+  border-radius: 8px;
+}
+
+.cod-cheat-step--wide {
+  grid-column: span 2;
+}
+
+.cod-cheat-step h3 {
+  margin: 0 0 0.35rem;
+  font-size: 1rem;
+}
+
+.cod-cheat-step p {
+  min-height: 3.2rem;
+  margin: 0 0 0.75rem;
+  white-space: pre-wrap;
+  color: var(--ifm-color-emphasis-800);
+  line-height: 1.4;
+}
+
+.cod-cheat-step img {
+  display: block;
+  width: 100%;
+  border-radius: 6px;
+}
+
+.cod-cheat-swaps {
+  margin-top: 1rem;
+  padding: 0.9rem;
+}
+
+.cod-cheat-swaps summary {
+  cursor: pointer;
+  color: var(--ifm-color-primary);
+  font-size: 1.1rem;
+  font-weight: 800;
+  margin-bottom: 0.85rem;
+}
+
+.cod-cheat-warning {
+  padding: 0.65rem 0.75rem;
+  color: #ffdddd;
+  background: #7a1f2a;
+  border-radius: 6px;
+}
+
+.cod-cheat-empty {
+  padding: 1rem;
+}
+
+@media (max-width: 996px) {
+  .cod-cheat-header,
+  .cod-cheat-controls {
+    grid-template-columns: 1fr;
+  }
+
+  .cod-cheat-header {
+    display: grid;
+  }
+
+  .cod-cheat-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 640px) {
+  .cod-cheat-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .cod-cheat-step--wide {
+    grid-column: span 1;
+  }
+
+  .cod-cheat-role-grid {
+    grid-template-columns: repeat(4, minmax(38px, 1fr));
+  }
+}
+
 /* Table styling */
 table {
   display: table;

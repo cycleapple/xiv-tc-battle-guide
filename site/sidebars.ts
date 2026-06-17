@@ -8,6 +8,11 @@ const sidebars: SidebarsConfig = {
       label: '滅級任務',
       items: [
         'chaotic/cloud-of-darkness',
+        {
+          type: 'link',
+          label: '滅・暗黑之雲小抄工具',
+          href: '/chaotic/cloud-of-darkness-cheatsheet',
+        },
       ],
     },
     {

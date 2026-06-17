@@ -25,6 +25,10 @@ import MacroBlock from '@site/src/components/MacroBlock';
 原文是開荒初期攻略，作者也註明有不少暫定與硬處理的部分。各段影片與圖解中的散開位置可能不同，請以實際隊伍巨集為準。
 :::
 
+:::tip 小抄工具
+已整合 [滅・暗黑之雲激鬥戰小抄工具](/chaotic/cloud-of-darkness-cheatsheet)，可依打法、聯盟與職能位置查看個人化站位圖。
+:::
+
 ## 機制解說
 
 ### 暗之刃
