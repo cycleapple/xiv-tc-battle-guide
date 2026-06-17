@@ -15,6 +15,7 @@ title: 首頁
 ### 滅級任務
 
 - [滅・暗黑之雲激鬥戰](chaotic/cloud-of-darkness)
+- [滅・暗黑之雲激鬥戰小抄工具](chaotic/cloud-of-darkness-cheatsheet)
 
 ### 零式副本
 

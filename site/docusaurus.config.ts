@@ -13,6 +13,7 @@ const config: Config = {
 
   url: 'https://cycleapple.github.io',
   baseUrl: '/xiv-tc-battle-guide/',
+  trailingSlash: true,
 
   organizationName: 'cycleapple',
   projectName: 'xiv-tc-battle-guide',

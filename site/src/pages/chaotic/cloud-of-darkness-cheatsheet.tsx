@@ -242,6 +242,36 @@ function StepCard({
 }
 
 export default function CloudOfDarknessCheatsheet(): React.ReactNode {
+  const pageTitle = 'FF14 滅 暗黑之雲 小抄工具｜滅・暗黑之雲激鬥戰繁中站位';
+  const pageDescription =
+    'FF14 滅 暗黑之雲小抄工具，整合 WTFDIG The Cloud of Darkness (Chaotic) 全策略、聯盟、職能位置與繁中站位提示，支援イディル改、CODCAR、HealerOut 與 Raidplan。';
+  const canonicalUrl =
+    'https://cycleapple.github.io/xiv-tc-battle-guide/chaotic/cloud-of-darkness-cheatsheet/';
+  const structuredData = {
+    '@context': 'https://schema.org',
+    '@type': 'WebApplication',
+    name: pageTitle,
+    description: pageDescription,
+    url: canonicalUrl,
+    applicationCategory: 'GameApplication',
+    operatingSystem: 'Web',
+    inLanguage: 'zh-Hant',
+    isAccessibleForFree: true,
+    about: {
+      '@type': 'VideoGame',
+      name: 'Final Fantasy XIV',
+    },
+    keywords: [
+      'FF14 滅 暗黑之雲 小抄',
+      'FF14 滅 暗黑之雲 攻略',
+      '滅・暗黑之雲激鬥戰',
+      'The Cloud of Darkness Chaotic',
+      'WTFDIG',
+      'イディル改',
+    ],
+    license: 'https://github.com/mczub/wtfdig/blob/main/LICENSE',
+    isBasedOn: 'https://github.com/mczub/wtfdig',
+  };
   const assetBase = useBaseUrl('/wtfdig/71/');
   const [stratName, setStratName] = useState('idyll');
   const [alliance, setAlliance] = useState<Alliance>('A');
@@ -323,15 +353,23 @@ export default function CloudOfDarknessCheatsheet(): React.ReactNode {
   return (
     <main className="cod-cheatsheet-page">
       <Head>
-        <title>滅・暗黑之雲激鬥戰小抄工具 | FF14 繁中高難攻略</title>
-        <meta
-          name="description"
-          content="FF14 滅 暗黑之雲小抄工具，整合 WTFDIG The Cloud of Darkness (Chaotic) 全策略、聯盟、職能位置與繁中站位提示。"
-        />
+        <title>{pageTitle}</title>
+        <link rel="canonical" href={canonicalUrl} />
+        <meta name="description" content={pageDescription} />
         <meta
           name="keywords"
-          content="FF14,FFXIV,滅 暗黑之雲 小抄,滅 暗黑之雲 攻略,The Cloud of Darkness Chaotic,WTFDIG,滅級攻略"
+          content="FF14,FFXIV,滅 暗黑之雲 小抄,滅 暗黑之雲 攻略,滅・暗黑之雲激鬥戰,The Cloud of Darkness Chaotic,WTFDIG,イディル改,CODCAR,HealerOut,Raidplan,滅級攻略"
         />
+        <meta property="og:type" content="website" />
+        <meta property="og:title" content={pageTitle} />
+        <meta property="og:description" content={pageDescription} />
+        <meta property="og:url" content={canonicalUrl} />
+        <meta property="og:site_name" content="FF14 繁中高難攻略" />
+        <meta property="og:locale" content="zh_TW" />
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:title" content={pageTitle} />
+        <meta name="twitter:description" content={pageDescription} />
+        <script type="application/ld+json">{JSON.stringify(structuredData)}</script>
       </Head>
       <section className="cod-cheat-header">
         <div>
