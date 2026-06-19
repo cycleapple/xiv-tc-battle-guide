@@ -1,13 +1,13 @@
 ---
 sidebar_position: 1
 title: 配裝推薦
-description: FF14 阿卡狄亞零式中量級（M5S～M8S）全職業配裝推薦 — 坦克、治療、DPS 開荒與畢業 BIS
+description: FF14 阿卡狄亞零式中重量級（M5S～M8S）全職業配裝推薦 — 坦克、治療、DPS 開荒與畢業 BIS
 ---
 
 # 配裝推薦
 
 :::info 配裝來源
-配裝方案參考自喵叔孤風行整理的[FF14全戰職配裝表](https://www.kdocs.cn/l/ceEcTzlFQBUy)，點擊「查看配裝」可在配裝工具中查看完整裝備與魔晶石詳情。
+配裝方案參考自喵叔孤風行整理的[FF14全戰職配裝表](https://www.kdocs.cn/l/ceEcTzlFQBUy)。本頁由試算表中「7.2 零式配裝／至天之座中重量級」區段產生，點擊「查看配裝」可在配裝工具中查看完整裝備與魔晶石詳情。
 :::
 
 | 職能 | 職業 |
@@ -20,137 +20,138 @@ description: FF14 阿卡狄亞零式中量級（M5S～M8S）全職業配裝推�
 
 ---
 
-## 至天之座中量級（M5S～M8S）
+## 至天之座中重量級（M5S～M8S）
 
 ### 坦克
 
-| 職業 | 類型 | GCD | 配裝 | 備註 |
-|------|------|-----|------|------|
-| 坦克通用 | 開荒 | 2.50 | [查看配裝](https://cycleapple.github.io/xiv-tc-gear/?s=2beWH8FP91wYOqLzcvKnVjY1KY9J4W2whbMQIgfAqPl6gUO0yGeGVT0XNwgPWMjfnzAGAtScx99tCp0A5AIzyavCvI) |  |
-| 坦克通用 | 畢業 | 2.50 | [查看配裝](https://cycleapple.github.io/xiv-tc-gear/?s=grXPS1G6eTC8AMWQqLeCAHsMgl96A99NHZE8TdcfWNQhADLEPWIY62twmsSy5Ozsqfk) |  |
+| 職業 | 裝等 | 類型 | GCD | 配裝 | 備註 |
+|------|------|------|-----|------|------|
+| 坦克通用 | 742 | 開荒 | 2.5 | [查看配裝](https://cycleapple.github.io/xiv-tc-gear/?s=5lB2lXGyoxMeQYmUjAtTWWwJ6xuJhDq8JfYFTHFAlIDBFlPwBNpMAtRNdKUuhjKLkRwOiu1PdBVR1syXskWHnxGoSmi0S) | 4T通用2.5開荒；成本略低<br />準備週+零式週兌換750項鍊+750戒指<br />（零式週4層時要刷300點數）<br />信暴食物 |
+| 坦克通用 | 741 | 開荒 | 2.5 | [查看配裝](https://cycleapple.github.io/xiv-tc-gear/?s=diENrrTAgvzYxdSyGTnS9Wm1rwWndnK1uVPKyn05OtaOf55Jiv6VEqV26cnLwPS4LSHPnRTZemgGXADiKg0wDssS6D1KTl4q) | 4T通用2.5開荒；威力最高<br />準備週+零式週兌換750衣服<br />（零式週4層時要刷375點數）<br />信暴食物 |
+| 坦克通用 | 760 | 畢業 | 2.5 | [查看配裝](https://cycleapple.github.io/xiv-tc-gear/?s=fQMqI2vj7nD8Lfxwh6fyonxyacuiZHrDd5H1a7ixwJcq0k7cUhWUHorrylP2F97pWiy) | 4T通用，6週畢業<br />騎士武器打1暴1直，其他T武器打2暴<br />信暴食物 |
 
 ### 治療
 
-| 職業 | 類型 | GCD | 配裝 | 備註 |
-|------|------|-----|------|------|
-| 4治療通用 | 開荒 | 2.40 | [查看配裝](https://cycleapple.github.io/xiv-tc-gear/?s=bKbd4ZUrksN5zVSU8RNnq5UbOAHxFknMxyHVXG5axdgdkjJZBgmYLiw9mc5crM0NFP6NI9R33HHphu7Sa) |  |
-| 學者 | 開荒 | 2.31 | [查看配裝](https://cycleapple.github.io/xiv-tc-gear/?s=UG4zThvGBSuBhCydCDVRrvQt9mfQlNPONt4e2MyD6p8bnOKBOj6M00Qf6r9Ahr6VzUMNUC8RaO6aSp6IwRKG62) |  |
-| 白魔／賢者 | 畢業 | 2.42 | [查看配裝](https://cycleapple.github.io/xiv-tc-gear/?s=8QNLm4eovKOKWdVlak0I9PjTMZaRmSFF2yvNEiY86rNo7ry3m4mGi9oh7GFNhVTKi) |  |
-| 白魔／賢者 | 畢業 | 2.43 | [查看配裝](https://cycleapple.github.io/xiv-tc-gear/?s=8QNLm4eovKOKWdVlak0I6u1gA5mF866uCFm4Kcwk6keTlViOHLZ1wxIfZWta0DxOi) |  |
-| 4治療通用 | 畢業 | 2.40 | [查看配裝](https://cycleapple.github.io/xiv-tc-gear/?s=8QNLm4eovKOKWdVlak0I4OmWFLvBfV2v6Pvi45hkNhKEApS84UWdWHrxsI6LCKAoa) |  |
-| 學者 | 畢業 | 2.31 | [查看配裝](https://cycleapple.github.io/xiv-tc-gear/?s=8R7xC2S9vgnd1zJb2bP2kw65bpVBNXngOQ2p96uiRgn6cqeyDDfwwocA9FgvxSJX0) |  |
+| 職業 | 裝等 | 類型 | GCD | 配裝 | 備註 |
+|------|------|------|-----|------|------|
+| 學者 | 742 | 開荒 | 2.31 | [查看配裝](https://cycleapple.github.io/xiv-tc-gear/?s=1ORwXcYoL64d4ySgIh6EjQufvdlNlstPoNEWZiEWUIukFveNGZMvMsYCDTKdHUyyjKKAiZ8aZagDzFs5hbPKrDbUa) | 學者2.31開荒專用<br />需一個740普通戒指<br />準備週+零式週兌換750耳飾+750手套<br />（零式週4層時要刷420點數）<br />暴詠食物 |
+| 學者 | 760 | 畢業 | 2.31 | [查看配裝](https://cycleapple.github.io/xiv-tc-gear/?s=gfXxzNnkiAgzVsPIrtMJ06d5Is4SqYnHvmsdcAdnzPUnLI0XZUg60OSljIS5U9WgMiy) | 學者強行2.31畢業專用，5週畢業<br />常規鑲嵌速度溢出40多詠唱，<br />將手套故意溢出33點詠唱，換取其他部位多打一顆暴擊<br />暴詠食物 |
+| 白魔／賢者 | 742 | 開荒 | 2.45 | [查看配裝](https://cycleapple.github.io/xiv-tc-gear/?s=5EnlJRh5NIxiqe0IXUrIir6vT5WuEqqkmQoz7qy7NCeQYJlDQgN4peQJC6HcKWUujoVC5WuzQ54GBALPtcNk5DALdF9km) | 白魔／賢者2.45開荒<br />準備週+零式週兌換750耳飾+750手套<br />（零式週4層時要刷420點數）<br />信暴食物 |
+| 白魔／賢者 | 760 | 畢業 | 2.45 | [查看配裝](https://cycleapple.github.io/xiv-tc-gear/?s=fEMbbszs5RiBTkc4dROCQKZbyrDeearZTFP4VSy6BJGyTZh23Zf4TnOyPbYjVfMjHCi) | 白魔／賢者2.45畢業，6週畢業<br />信暴食物 |
+| 4治療通用 | 742 | 開荒 | 2.4 | [查看配裝](https://cycleapple.github.io/xiv-tc-gear/?s=1Jj0MrZ4e8NXeDyeFIhktXpU6lcLnuSqNPlXod0YuV42guyEgBgPfymMdbVkZTaxqV5C0nCjkmSdzj9pCEvhRs5DE) | 4治療通用2.4開荒<br />需一個740普通戒指<br />準備週+零式週兌換750耳飾+750手套<br />（零式週4層時要刷420點數）<br />暴詠食物 |
+| 4治療通用 | 760 | 畢業 | 2.4 | [查看配裝](https://cycleapple.github.io/xiv-tc-gear/?s=fEMbbszs5RiEc84dAWHEPfQZ9yH6UnOJhjb0W3raOX56GoCrcyPEyKZqtbZbPJrd7YO) | 4治療通用2.4畢業，7週畢業<br />比2.45需多換個點數手鐲<br />暴詠食物 |
 
 ### 近戰 DPS
 
 #### 龍騎士
 
-| 類型 | GCD | 配裝 | 備註 |
-|------|-----|------|------|
-| 開荒 | 2.50 | [查看配裝](https://cycleapple.github.io/xiv-tc-gear/?s=EHCtEwSd8yVOMFRbsZrZfqweMyXzPHibZbkapq0g9rgG9v2P1919f1A2sRGsj3chM2377jb2qJ5G0JLHlkFum) |  |
-| 點數武器開荒 | 2.50 | [查看配裝](https://cycleapple.github.io/xiv-tc-gear/?s=EHCtEwSd8UgfTKZ4MNvuT9UxTO9FBtjPuLsDkdElSbV2aIwuGLmUjTGnmIPe5k773bA63lPxEywVQ5T28P1M2) |  |
-| 畢業 | 2.50 | [查看配裝](https://cycleapple.github.io/xiv-tc-gear/?s=fEu4zw0TD6pzt9wiEsDB3i2Gd2W6QvNrYWq1yx2nlAMh8ijvH4UoktrlQpGtTSziCR0) |  |
+| 裝等 | 類型 | GCD | 配裝 | 備註 |
+|------|------|-----|------|------|
+| 742 | 開荒 | 2.5 | [查看配裝](https://cycleapple.github.io/xiv-tc-gear/?s=2qqchvKjPeZX7YBI9oGAD0pSWrTNcYCgVojbNWLuTgZBk5kAKg809wOzKnebbD3bWcpwvbyA3jJvXR5sY1oUfYK1bM) | 2.5龍騎士開荒，相容2.5鐮刀師開荒，需740普通鞋子<br />準備週+零式週兌換750耳飾+750戒指<br />（零式週4層時要刷300點數）<br />信暴食物 |
+| 744 | 開荒 | 2.5 | [查看配裝](https://cycleapple.github.io/xiv-tc-gear/?s=5v4rdlNnJgrprR1VH10u2MmNumCkOJhXYFM48AomPqKVLSac0ZJiuexnzVchhIQ3EUMhMgM2JYmkqQ02jdELki4I9jw5w) | 2.5龍騎士開荒，相容2.5鐮刀師開荒，需740普通鞋子<br />準備週+零式週兌換750耳飾+500點數換武器<br />（零式週4層時換武器要刷425點數）<br />信暴食物 |
+| 760 | 畢業 | 2.5 | [查看配裝](https://cycleapple.github.io/xiv-tc-gear/?s=fEMbblp2lOEtrOYWo4WDgtv71xcfQlwM9uMFmfN4xOHUPMeGjOM2ZDqoqxooa2Y4h0G) | 2.50龍騎士畢業，5週畢業<br />相容性：相容僧侍鐮飾品<br />信暴食物 |
 
 #### 鐮刀師
 
-| 類型 | GCD | 配裝 | 備註 |
-|------|-----|------|------|
-| 開荒 | 2.50 | [查看配裝](https://cycleapple.github.io/xiv-tc-gear/?s=EHCtEwSd8yVOMFRbsZrZfqweMyXzPHibZbkapq0g9rgG9v2P1919f1A2sRGsj3chM2377jb2qJ5GgNjp3nVWi) |  |
-| 點數武器開荒 | 2.50 | [查看配裝](https://cycleapple.github.io/xiv-tc-gear/?s=EHCtEwSd8UgfTKZ4MNvuT9UxTO9FBtjPuLsDkdElSbV2aIwuGLmUjTGnmIPe5k773bA63lPxEywVQ5T3dwvmq) |  |
-| 畢業 | 2.50 | [查看配裝](https://cycleapple.github.io/xiv-tc-gear/?s=fEu4zw0TD6pzt9wiEsDB3i2Gd2W6QvNrYWq1yx2nlAMh8ijvH4UoktrlQpGtTTE06ro) |  |
+| 裝等 | 類型 | GCD | 配裝 | 備註 |
+|------|------|-----|------|------|
+| 742 | 開荒 | 2.5 | [查看配裝](https://cycleapple.github.io/xiv-tc-gear/?s=2qqchvKjPeZX7YBI9oGAD0pSWrTNcYCgVojbNWLuTgZBk5kAKg809wOzKnebbD3bWcpwvbyA3jJvXR5sY1oUh3ruMa) | 2.5鐮刀師開荒，相容2.5龍騎士開荒，需740普通鞋子<br />準備週+零式週兌換750耳飾+750戒指<br />（零式週4層時要刷300點數）<br />信暴食物 |
+| 744 | 開荒 | 2.5 | [查看配裝](https://cycleapple.github.io/xiv-tc-gear/?s=5v4rdlNnJgrprR1VH10u2MmNumCkOJhXYFM48AomPqKVLSac0ZJiuexnzVchhIQ3EUMhMgM2JYmkqQ02jdELki4Je0ZFU) | 2.5鐮刀師開荒，相容2.5龍騎士開荒，需740普通鞋子<br />準備週+零式週兌換750耳飾+500點數換武器<br />（零式週4層時換武器要刷425點數）<br />信暴食物 |
+| 760 | 畢業 | 2.5 | [查看配裝](https://cycleapple.github.io/xiv-tc-gear/?s=fEMbblp2lOEtrOYWo4WDgtv71xcfQlwM9uMFmfN4xOHUPMeGjOM2ZDqoqxooa42LKB4) | 2.50鐮刀師畢業，5週畢業<br />相容性：相容僧侍龍飾品<br />信暴食物 |
 
 #### 武僧
 
-| 類型 | GCD | 配裝 | 備註 |
-|------|-----|------|------|
-| 開荒 | 1.94 | [查看配裝](https://cycleapple.github.io/xiv-tc-gear/?s=2f38Pa5GvXyxboZ9W3iUFLGZ75PLikp0mRnqSne4nt0tOxeieMnGW1C8nuaUOKGGB5jNVwYRkNm5LS2va0RA0sJGcy) |  |
-| 畢業1 | 1.94 | [查看配裝](https://cycleapple.github.io/xiv-tc-gear/?s=fEu4zw0TD6pzt9wiEsDB3i2Gd2W7cWqxFnqDJkd7flZSYaqQW3PkxWQzmyjjJA5v2AO) |  |
-| 畢業2 | 1.94 | [查看配裝](https://cycleapple.github.io/xiv-tc-gear/?s=fEu4zw0TD6pzt9wiEsDB3i2Gd2W6QvNAG5tc5Z2fBo37AxvlBbK7KEmdb2pvvYUfLHY) |  |
-| 畢業3 | 1.93 | [查看配裝](https://cycleapple.github.io/xiv-tc-gear/?s=fEu4zvYeEiyVJknP1SsyLE34yyFNDdu7fcPjWwxvgp7pA3gGSsKWYgufuUDzjUVcK4a) |  |
+| 裝等 | 類型 | GCD | 配裝 | 備註 |
+|------|------|-----|------|------|
+| 741 | 開荒 | 1.94 | [查看配裝](https://cycleapple.github.io/xiv-tc-gear/?s=dS01MMJR4MvHmXW65RZyA0jAjpny23qVzs6PSRNxTUrEVpBCbK0J9SAAB0p6P0aoQfWV5T8I4KMicdDbTvVEtNjQbkU3TR0u) | 1.94武僧開荒（換褲子）<br />準備週+零式週兌換750褲子，不可選換武器<br />（零式週4層時要刷375點數）<br />暴速食物 |
+| 740 | 開荒 | 1.94 | [查看配裝](https://cycleapple.github.io/xiv-tc-gear/?s=dS01MMJR4TDVKuYBSk3cM8xh8XmyuDVZxUEirkNzI2VYNwGh028ifhoOL9vrPp682VmCHyV4Dowu3tF7zEn6M0cS8QwbewOe) | 1.94武僧開荒（換武器版）<br />準備週+零式週兌換750戒指+存500點數換武器<br />（零式週4層時換武器要刷425點數）<br />暴速食物 |
+| 760 | 畢業 | 1.94 | [查看配裝](https://cycleapple.github.io/xiv-tc-gear/?s=fEMbblp2lOEu1WNzy0SoNgvoBBHPRoJ8pK9ChwrQU8yWRAbcxfCDjT8KRDButqNmBF8) | 1.94武僧畢業，6週畢業<br />相容性：完全相容2.14武士畢業，相容龍鐮飾品<br />暴速食物 |
+| 760 | 畢業 | 1.94 | [查看配裝](https://cycleapple.github.io/xiv-tc-gear/?s=fEMbblp2lOEu2n9k7ogEz0fO57Uk4Nc5GH7I81fdpuiaYpJgApTMli2P1TxpC0r67Cq) | 1.94武僧畢業，6週畢業<br />相容性：不相容其他職業<br />優化信直差，比相容版高出萬分之1.8<br />暴速食物 |
 
 #### 武士
 
-| 類型 | GCD | 配裝 | 備註 |
-|------|-----|------|------|
-| 開荒 | 2.14 | [查看配裝](https://cycleapple.github.io/xiv-tc-gear/?s=2d92L96rcVX8VYQ7U9Uwh8S7XN9R2w4652erHQLqF4RM2WX7zdfYrie9N920Y92hVCiSeQZJt0uGyFTf86MyZCI7aK) |  |
-| 畢業 | 2.14 | [查看配裝](https://cycleapple.github.io/xiv-tc-gear/?s=fEu4zw0TD6pzt9wiEsDB3i2Gd2W6QvNAG5tc5Z2fBo37mrPK3Oghl7L4F9va1Ggwo0S) |  |
-| 畢業 | 2.17 | [查看配裝](https://cycleapple.github.io/xiv-tc-gear/?s=fEu4zw0TD6pzt9wiEsDB3i2Gd2W6QvNAG5tc5Z2fBo37mrPK3LddFq0Dw8jPmEtVWM6) |  |
+| 裝等 | 類型 | GCD | 配裝 | 備註 |
+|------|------|-----|------|------|
+| 741 | 開荒 | 2.14 | [查看配裝](https://cycleapple.github.io/xiv-tc-gear/?s=dGdCrefeAgQVvcymc7DBy2SFUQocqGef699JASXlknOtblbstAfepsAWTIGdlbdU2R94xlvlAS4jGiQYXSjBVHDFmFblNr9k) | 2.14武士開荒（換褲子）<br />除褲子和一個戒指，其他與2.14武士武器版禁斷相容<br />準備週+零式週兌換750褲子，不可選換武器<br />（零式週4層時要刷375點數）<br />信暴食物 |
+| 742 | 開荒 | 2.14 | [查看配裝](https://cycleapple.github.io/xiv-tc-gear/?s=f0kESjIPrOmv02DcjDG2LE1IQuPfmw3q6FcClAV2Q3YSOYVyivtWXohbgYfVeNVbNU9Cw6ltug2OkF75izrKALD1K9w3YL4i) | 2.14武士開荒（換武器版）<br />除褲子和一個戒指，其他與2.14武士褲子版禁斷相容<br />準備週+零式週兌換750戒指+存500點數換武器<br />（零式週4層時換武器要刷425點數）<br />信暴食物 |
+| 760 | 畢業 | 2.14 | [查看配裝](https://cycleapple.github.io/xiv-tc-gear/?s=fEMbblp2lOEtrOYWo4WDgtv71xcgcvBjRZfnwltqh63gu2N8QYbbmmrt2tZUZnpGLgq) | 2.14武士畢業，5週畢業<br />相容性：完全相容1.94武僧畢業，相容龍鐮飾品<br />信暴食物 |
+| 760 | 畢業 | 2.17 | [查看配裝](https://cycleapple.github.io/xiv-tc-gear/?s=fEMbblp2lOEtrOYWo4WDgttrndhVCR1EDaA3jBF7AiPHx4pVu56BsVo59hBip23QnL8) | 2.17武士畢業，5週畢業<br />相容性：相容龍鐮飾品，<br />與2.14武士和1.94武僧的衣服手套鞋子鑲嵌不同<br />信暴食物 |
 
 #### 毒蛇劍士
 
-| 類型 | GCD | 配裝 | 備註 |
-|------|-----|------|------|
-| 開荒 | 2.12 | [查看配裝](https://cycleapple.github.io/xiv-tc-gear/?s=EHCtqLJOmqsCGFOdciNfwcwrWuR3FBarKqhCZCeLNEsHDia5C40hL0sB4oGF01RVTcbUFrYVb1IGL3knCDieG) | 相容忍者 |
-| 開荒 | 2.08 | [查看配裝](https://cycleapple.github.io/xiv-tc-gear/?s=2d92KoJTIlGW0jSizlP5eCaS0iwqsI9kO98DVqmNF9MkCqAB9RatXcm51AH5q8nJxk3rlEdrdUcOfFdD8RWYbJMhxc) | 相容忍者 |
-| 畢業 | 2.12 | [查看配裝](https://cycleapple.github.io/xiv-tc-gear/?s=fR4D0myIc7XfzyFkHTGQ0aoxe2eMHYWRhdY8RLBt3UFzYb5YgSXfSTnYGm2vo2WbI9U) |  |
-| 畢業 | 2.08（4週） | [查看配裝](https://cycleapple.github.io/xiv-tc-gear/?s=fR4D0myIc7XfzyFkHTGQ0aoxe2eMHYWRh97du66Jvf6M7FIyyJ5hBW9khldfgRpsZpc) |  |
-| 畢業 | 2.08（5週） | [查看配裝](https://cycleapple.github.io/xiv-tc-gear/?s=fR4D0myIc7XfzyFkHTGQ0aoxe2eMHYWRhdY8RLBt3UFzYb5YgMR8AOp5Yy1CIl5fWO2) |  |
-| 畢業 | 2.08（6週） | [查看配裝](https://cycleapple.github.io/xiv-tc-gear/?s=fEMe1AIk3xQYd3cGmS0hNonZWgCDpkFtvfm0ZDfbbSGoEgG88Sq7WlSTAIgxcSyqpSm) |  |
+| 裝等 | 類型 | GCD | 配裝 | 備註 |
+|------|------|-----|------|------|
+| 742 | 開荒 | 2.12 | [查看配裝](https://cycleapple.github.io/xiv-tc-gear/?s=1ApIKAg3GXoTQc9sNKUfabEX7hfaYiQFzpbK7jLVgpJt9ph6b1y3KjacagyTJ1o7IJB4HsNMhqlBQnN91f5OuArb8) | 2.12毒蛇開荒（換2首飾），<br />威力略低，禁斷成本略低，換裝平滑，<br />需一個普通740項鍊；<br />2.12忍蛇通用<br />準備週+零式週兌換750耳飾+750手鐲<br />（零式週4層時換武器要刷300點數）<br />信暴食物 |
+| 740 | 開荒 | 2.12 | [查看配裝](https://cycleapple.github.io/xiv-tc-gear/?s=3WKwJJwSVgUgc1SoeIy46IgaoyN6ZKDzh6huIJAJ3T6aJJCWMxsRaxIBGJJlf2Qb7u60DQSied3hKQ83FyFgq3ZjsAP4) | 2.12毒蛇開荒（換武器版）<br />需一個普通740項鍊；<br />2.12忍蛇通用<br />準備週+零式週兌換750耳飾+存500點數換武器<br />（零式週4層時換武器要刷425點數）<br />信暴食物 |
+| 760 | 畢業 | 2.12 | [查看配裝](https://cycleapple.github.io/xiv-tc-gear/?s=fEu1JnPkIQb1zM317o5w5Fee3IKX9UXg0ui3v9BfwIkppdDzqpywN6X1MpgwDxvXDBk) | 相容性：2.12忍蛇通用，與遠敏首飾相同<br />2.12毒蛇畢業，7週畢業<br />信暴食物 |
+| 740 | 開荒 | 2.08 | [查看配裝](https://cycleapple.github.io/xiv-tc-gear/?s=5lB2lXGypAUdWixGPWDXgp1YhVOQNVMuQsXUOGfpHiAEvEIpebh1qTeVvNSOdtVIPYLU1CXaksjKu1vq9ihl50VCkWk4C) | 2.08毒蛇開荒（換2首飾）<br />與2.08毒蛇開荒武器版相容<br />威力略低，禁斷成本略低，換裝平滑，<br />準備週+零式週兌換750耳飾+750手鐲<br />（零式週4層時換武器要刷300點數）<br />信暴食物 |
+| 740 | 開荒 | 2.08 | [查看配裝](https://cycleapple.github.io/xiv-tc-gear/?s=diENrrTAjfKbYZKe8C2vWnT7706w5CIUc5hnnv8pEkPfJGILoEiDqDBhrCOphA2bwinJ1CIhDkiyKqg2j05HPwQKhPzpLDIy) | 2.08毒蛇開荒（換武器版）<br />與2.08毒蛇開荒2首飾版相容<br />準備週+零式週兌換750耳飾+760武器<br />（零式週4層時換武器要刷300點數）<br />信暴食物 |
+| 760 | 畢業 | 2.08 | [查看配裝](https://cycleapple.github.io/xiv-tc-gear/?s=fEu1JnPkIQb1zM317o5w5Fee3IKX9UXg0E74zGzefetd1DNhGRXkA05IujnUERtUTRY) | 相容忍者，<br />2.08毒蛇畢業，5週畢業<br />信暴食物 |
+| 760 | 畢業 | 2.08 | [查看配裝](https://cycleapple.github.io/xiv-tc-gear/?s=fEu1JnRZHE1FjaPKaIvAch1xrY7LzfYaAQ8p8kA3UyKnY1xCBqs3YrUuFBWMcR8gWxo) | 沒有相容性，一身的技速石頭<br />2.08毒蛇畢業，7週畢業<br />比相容忍者版高0.06%<br />信暴食物 |
 
 #### 忍者
 
-| 類型 | GCD | 配裝 | 備註 |
-|------|-----|------|------|
-| 開荒 | 2.12 | [查看配裝](https://cycleapple.github.io/xiv-tc-gear/?s=EHCtqLJOmqsCGFOdciNfwcwrWuR3FBarKqhCZCeLNEsHDia5C40hL0sB4oGF01RVTcbUFrYVb1IGL3kmQZnFM) | 相容毒蛇劍士 |
-| 畢業 | 2.12 | [查看配裝](https://cycleapple.github.io/xiv-tc-gear/?s=fR4D0myIc7XfzyFkHTGQ0aoxe2eMHYWRhdY8RLBt3UFzYb5YgSXfSTnYGm2vo2axNB0) |  |
+| 裝等 | 類型 | GCD | 配裝 | 備註 |
+|------|------|-----|------|------|
+| 742 | 開荒 | 2.12 | [查看配裝](https://cycleapple.github.io/xiv-tc-gear/?s=1ApIKAg3GXoTQc9sNKUfabEX7hfaYiQFzpbK7jLVgpJt9ph6b1y3KjacagyTJ1o7IJB4HsNMhqlBQnN91f5NIWwCe) | 2.12忍者開荒（換2首飾），<br />威力略低，禁斷成本略低，換裝平滑，<br />需一個普通740項鍊；<br />2.12忍蛇通用<br />準備週+零式週兌換750耳飾+750手鐲<br />（零式週4層時換武器要刷300點數）<br />信暴食物 |
+| 742 | 開荒 | 2.12 | [查看配裝](https://cycleapple.github.io/xiv-tc-gear/?s=3WKwJJwSVgUgc1SoeIy46IgaoyN6ZKDzh6huIJAJ3T6aJJCWMxsRaxIBGJJlf2Qb7u60DQSied3hKQ83FyFgq3YxOGga) | 2.12忍者開荒（換武器版）<br />需一個普通740項鍊；<br />2.12忍蛇通用<br />準備週+零式週兌換750耳飾+存500點數換武器<br />（零式週4層時換武器要刷425點數）<br />信暴食物 |
+| 760 | 畢業 | 2.12 | [查看配裝](https://cycleapple.github.io/xiv-tc-gear/?s=fEu1JnPkIQb1zM317o5w5Fee3IKX9UXg0ui3v9BfwIkppdDzqpywN6X1MpgwDwKjJ2q) | 相容性：2.12忍蛇通用，首飾與遠敏相容<br />2.12忍者畢業，7週畢業<br />信暴食物 |
 
-### 遠程 DPS
+### 遠敏 DPS
 
 #### 機工士
 
-| 類型 | GCD | 配裝 | 備註 |
-|------|-----|------|------|
-| 開荒 | 2.50 | [查看配裝](https://cycleapple.github.io/xiv-tc-gear/?s=EHCtqLJOmqsCGFOdciNfwcwrWuR3FBarMse1KG3Tgl77iK8lJW9pJeKq7Kg6wxaJiDklVF6H6wEUtfyya0qZo) |  |
-| 畢業 | 2.50 | [查看配裝](https://cycleapple.github.io/xiv-tc-gear/?s=fR4D0myIc7XfzyFkHTGQ0aoxe2eN4pzFz8qO0LW2fhscbJlrFANIqZFURa6ZUxxwW9w) |  |
+| 裝等 | 類型 | GCD | 配裝 | 備註 |
+|------|------|-----|------|------|
+| 741 | 開荒 | 2.5 | [查看配裝](https://cycleapple.github.io/xiv-tc-gear/?s=1N3FJth7L1lneHBrDU48a6uehSvK87DzILHdIvRS04c6upBmccN9ZqVaOVznEPCrhxzdlGHKVlwZY9JCei6qIAv4i) | 2.5遠敏開荒通用<br />需一個普通740項鍊；<br />準備週+零式週兌換750耳墜+750戒指<br />（零式週4層時要刷300點數）<br />信暴食物 |
+| 760 | 畢業 | 2.5 | [查看配裝](https://cycleapple.github.io/xiv-tc-gear/?s=fEu1JnPkIQb1zM317o5w5Fee3IKX9UXftBL9ds6Cj5AscOO3fnF4kKEgU52BcFgOSfs) | 相容性：3遠敏通用+2.12忍蛇飾品相容<br />2.5遠敏畢業，6週畢業<br />信暴食物 |
 
 #### 吟遊詩人
 
-| 類型 | GCD | 配裝 | 備註 |
-|------|-----|------|------|
-| 開荒 | 2.50 | [查看配裝](https://cycleapple.github.io/xiv-tc-gear/?s=EHCtqLJOmqsCGFOdciNfwcwrWuR3FBarMse1KG3Tgl77iK8lJW9pJeKq7Kg6wxaJiDklVF6H6wEUtfyxCEHce) |  |
-| 畢業1 | 2.50 | [查看配裝](https://cycleapple.github.io/xiv-tc-gear/?s=fR4D0myIc7XfzyFkHTGQ0aoxe2eN4pzFz8qO0LW2fhscbJlrFANIqZFURa6ZUx0bcmm) |  |
-| 畢業2 | 2.50 | [查看配裝](https://cycleapple.github.io/xiv-tc-gear/?s=fR4D0myIc7XfzyFkHTGQ0aqapl3Yz9QZVuOdhENbEYfACLadkbOtmDay9Psei3sSInM) |  |
+| 裝等 | 類型 | GCD | 配裝 | 備註 |
+|------|------|-----|------|------|
+| 740 | 開荒 | 2.5 | [查看配裝](https://cycleapple.github.io/xiv-tc-gear/?s=1N3FJth7L1lneHBrDU48a6uehSvK87DzILHdIvRS04c6upBmccN9ZqVaOVznEPCrhxzdlGHKVlwZY9JCei6qbeLh8) | 2.5遠敏開荒通用<br />需一個普通740項鍊；<br />準備週+零式週兌換750耳墜+750戒指<br />（零式週4層時要刷300點數）<br />信暴食物 |
+| 760 | 畢業 | 2.5 | [查看配裝](https://cycleapple.github.io/xiv-tc-gear/?s=fEu1JnPkIQb1zM317o5w5Fee3IKX9UXftBL9ds6Cj5AscOO3fnF4kKEgU52BcEJt8si) | 相容性：3遠敏通用+2.12忍蛇飾品相容<br />2.5遠敏畢業，6週畢業<br />信暴食物 |
 
 #### 舞者
 
-| 類型 | GCD | 配裝 | 備註 |
-|------|-----|------|------|
-| 開荒 | 2.50 | [查看配裝](https://cycleapple.github.io/xiv-tc-gear/?s=EHCtqLJOmqsCGFOdciNfwcwrWuR3FBarMse1KG3Tgl77iK8lJW9pJeKq7Kg6wxaJiDklVF6H6wEUtfyyxPogO) |  |
-| 畢業1 | 2.50 | [查看配裝](https://cycleapple.github.io/xiv-tc-gear/?s=fR4D0myIc7XfzyFkHTGQ0aoxe2eN4pzFz8qO0LW2fhscbJlrFANIqZFURa6ZUxVlTqW) |  |
-| 畢業2 | 2.50 | [查看配裝](https://cycleapple.github.io/xiv-tc-gear/?s=fR4D0myIc7XfzyFkHTGQ0aqapl3Yz9QZVuOdhENbEYfACLadkbOtmDay9Psei4o3psm) |  |
+| 裝等 | 類型 | GCD | 配裝 | 備註 |
+|------|------|-----|------|------|
+| 742 | 開荒 | 2.5 | [查看配裝](https://cycleapple.github.io/xiv-tc-gear/?s=1N3FJth7L1lneHBrDU48a6uehSvK87DzILHdIvRS04c6upBmccN9ZqVaOVznEPCrhxzdlGHKVlwZY9JCei6r6pslI) | 2.5遠敏開荒通用<br />需一個普通740項鍊；<br />準備週+零式週兌換750耳墜+750戒指<br />（零式週4層時要刷300點數）<br />信暴食物 |
+| 760 | 畢業 | 2.5 | [查看配裝](https://cycleapple.github.io/xiv-tc-gear/?s=fEu1JnPkIQb1zM317o5w5Fee3IKX9UXftBL9ds6Cj5AscOO3fnF4kKEgU52BcFEDPwS) | 相容性：3遠敏通用+2.12忍蛇飾品相容<br />2.5遠敏畢業，6週畢業<br />信暴食物 |
 
 ### 法系 DPS
 
 #### 繪靈法師
 
-| 類型 | GCD | 配裝 | 備註 |
-|------|-----|------|------|
-| 開荒 | 2.50 | [查看配裝](https://cycleapple.github.io/xiv-tc-gear/?s=3SL9XtDWT8h1d7cP9pI4TluCMGM8ubOANQtleIw7uDuRH3cMnU2ojTk1rfIkCPhycLOMMmAgWkB4K) |  |
-| 開荒 | 2.48 | [查看配裝](https://cycleapple.github.io/xiv-tc-gear/?s=3SL9XtDWT8h1d7cP9pI4TluCMGM8ubOANQtleIw7uDuRH3cMnU2ojTk1rfIkCPhyeM0VgwMDjgcEa) |  |
-| 畢業 | 2.50 | [查看配裝](https://cycleapple.github.io/xiv-tc-gear/?s=3o0xMF5fthNrAuvV1rfjfDDlBbvSWxz7wiJLBBKwVo2ErzlMwxeUQ9AJrHjydk) |  |
-| 畢業 | 2.48 | [查看配裝](https://cycleapple.github.io/xiv-tc-gear/?s=3o0xMF5fthNrAuvV1rfjfDDlBbvSWxz7wiJLBBKwVo2ErzlMwxeUQWVksHWQRQ) |  |
+| 裝等 | 類型 | GCD | 配裝 | 備註 |
+|------|------|-----|------|------|
+| 740 | 開荒 | 2.5 | [查看配裝](https://cycleapple.github.io/xiv-tc-gear/?s=5lB2lXGyqHkuRaYZrrJooTu7C5JzYQkqnSTBvn7a5wipV3je9jWX6f82AO7AG73XXyP0ewog5d1d6PePha1ZYkj5A1wDM) | 2.50繪靈法師開荒<br />準備週+零式週兌換750手套+項鍊，不可選換武器<br />（零式週4層時要刷420點數）<br />信暴食物 |
+| 760 | 畢業 | 2.5 | [查看配裝](https://cycleapple.github.io/xiv-tc-gear/?s=fQMqIgSHGXhqpKvJrXv7uurQIvKpJjGH4JJIuaM9xKud87zYyIBdyCQVr8QAEuivN9w) | 相容性：除手鐲鑲嵌外法系通用<br />2.5繪靈法師畢業，6週畢業<br />推薦後期準備兩個零式手鐲，<br />一個打2直擊，一個打2詠唱<br />可以無損切換2.48召；2.48/2.5赤；2.48/2.5繪<br />信暴食物 |
+| 740 | 開荒 | 2.48 | [查看配裝](https://cycleapple.github.io/xiv-tc-gear/?s=5lB2lXGyqHkuRaYZrrJooTu7C5JzYQkqnSTBvn7a5wipV3je9jWX6f82AOrjj7MCXgw2k05Ozp7endKjBy1ZK9QmL7j2W) | 2.48繪靈法師開荒<br />準備週+零式週兌換750手套+項鍊，不可選換武器<br />（零式週4層時要刷420點數）<br />信暴食物 |
+| 760 | 畢業 | 2.48 | [查看配裝](https://cycleapple.github.io/xiv-tc-gear/?s=fQMqIgSHGXhsa7YfVCdwlPHXLFYXlKVuYN6e1TPMIPgqzIBLXfuotZx4MaOl7RdEWGS) | 相容性：2.48法系通用；除手鐲相容2.5法系<br />2.48繪靈法師畢業，6週畢業<br />推薦後期準備兩個零式手鐲，<br />一個打2直擊，一個打2詠唱<br />可以無損切換2.48召；2.48/2.5赤；2.48/2.5繪<br />信暴食物 |
 
 #### 赤魔法師
 
-| 類型 | GCD | 配裝 | 備註 |
-|------|-----|------|------|
-| 開荒 | 2.50 | [查看配裝](https://cycleapple.github.io/xiv-tc-gear/?s=3SL9XtDWT8h1d7cP9pI4TluCMGM8ubOANQtleIw7uDuRH3cMnU2ojTk1rfIkCPhxmGx0i2D9XDy0m) |  |
-| 開荒 | 2.48 | [查看配裝](https://cycleapple.github.io/xiv-tc-gear/?s=3SL9XtDWT8h1d7cP9pI4TluCMGM8ubOANQtleIw7uDuRH3cMnU2ojTk1rfIkCPhxmGx15neaYgQES) |  |
-| 畢業 | 2.50 | [查看配裝](https://cycleapple.github.io/xiv-tc-gear/?s=1QqsEiFWYvpzzAp4ZWdsVvhhrB7PFdC9TWRNmzSr8yWsc7jteT8YEmZhpvkW) |  |
-| 畢業 | 2.48 | [查看配裝](https://cycleapple.github.io/xiv-tc-gear/?s=1UPj9px9qWCpNdmmXGgZF4sym0IFZ8nIfiAxoEPTAkFOt3IONcIGbkeYWy6a) |  |
+| 裝等 | 類型 | GCD | 配裝 | 備註 |
+|------|------|-----|------|------|
+| 740 | 開荒 | 2.5 | [查看配裝](https://cycleapple.github.io/xiv-tc-gear/?s=5lB2lXGyqHkuRaYZrrJooTu7C5JzYQkqnSTBvn7a5wipV3je9jWX6f82AO7AG73XXyP0ewog5d1d6PePha1ZYkj57rb6u) | 2.50赤魔法師開荒<br />準備週+零式週兌換750手套+項鍊，不可選換武器<br />（零式週4層時要刷420點數）<br />信暴食物 |
+| 760 | 畢業 | 2.5 | [查看配裝](https://cycleapple.github.io/xiv-tc-gear/?s=fQMqIgSHGXhqpKvJrXv7uurQIvKpJjGH4JJIuaM9xKud87zYyIBdyCQVr8QAEtPVrCe) | 相容性：2.5法系通用；除手鐲相容2.48法系<br />2.5赤魔法師畢業，6週畢業<br />推薦後期準備兩個零式手鐲，<br />一個打2直擊，一個打2詠唱<br />可以無損切換2.48召；2.48/2.5赤；2.48/2.5繪<br />信暴食物 |
+| 740 | 開荒 | 2.48 | [查看配裝](https://cycleapple.github.io/xiv-tc-gear/?s=5lB2lXGyqHkuRaYZrrJooTu7C5JzYQkqnSTBvn7a5wipV3je9jWX6f82AOrjj7MCXgw2k05Ozp7endKjBy1ZK9QmiwXvE) | 2.48赤魔法師開荒<br />準備週+零式週兌換750手套+項鍊，不可選換武器<br />（零式週4層時要刷420點數）<br />信暴食物 |
+| 760 | 畢業 | 2.48 | [查看配裝](https://cycleapple.github.io/xiv-tc-gear/?s=fQMqIgSHGXhsa7YfVCdwlPHXLFYXlKVuYN6e1TPMIPgqzIBLXfuotZx4MaOl7QL4B9A) | 相容性：2.48法系通用；除手鐲相容2.5法系<br />2.48赤魔法師畢業，6週畢業<br />推薦後期準備兩個零式手鐲，<br />一個打2直擊，一個打2詠唱<br />可以無損切換2.48召；2.48/2.5赤；2.48/2.5繪<br />信暴食物 |
 
 #### 召喚師
 
-| 類型 | GCD | 配裝 | 備註 |
-|------|-----|------|------|
-| 開荒 | 2.48 | [查看配裝](https://cycleapple.github.io/xiv-tc-gear/?s=3SL9XtDWT8h1d7cP9pI4TluCMGM8ubOANQtleIw7uDuRH3cMnU2ojTk1rfIkCPhxmGx15neaqV6RI) |  |
-| 畢業 | 2.48 | [查看配裝](https://cycleapple.github.io/xiv-tc-gear/?s=1UPj9px9qWCpNdmmXGgZF4sym0IFZ8nIfiAxoEPTAkFOt3IONcIGbkerAOj0) |  |
+| 裝等 | 類型 | GCD | 配裝 | 備註 |
+|------|------|-----|------|------|
+| 740 | 開荒 | 2.48 | [查看配裝](https://cycleapple.github.io/xiv-tc-gear/?s=5lB2lXGyqHkuRaYZrrJooTu7C5JzYQkqnSTBvn7a5wipV3je9jWX6f82AOrjj7MCXgw2k05Ozp7endKjBy1ZK9QlLbdIu) | 2.48召喚師開荒<br />準備週+零式週兌換750手套+項鍊，不可選換武器<br />（零式週4層時要刷420點數）<br />若需到2.47，拆2顆直擊打2顆詠唱<br />信暴食物 |
+| 760 | 畢業 | 2.48 | [查看配裝](https://cycleapple.github.io/xiv-tc-gear/?s=fQMqIgSHGXhsa7YfVCdwlPHXLFYXlKVuYN6e1TPMIPgqzIBLXfuotZx4MaOl7QdIRmq) | 相容性：2.48法系通用；除手鐲相容2.5法系<br />2.48召喚師畢業，6週畢業<br />若需到2.47，拆2顆直擊打2顆詠唱<br />信暴食物 |
 
 #### 黑魔法師
 
-| 類型 | GCD | 配裝 | 備註 |
-|------|-----|------|------|
-| 開荒 | 2.45 | [查看配裝](https://cycleapple.github.io/xiv-tc-gear/?s=1VCXZTwPzvedaT6kEE26wrA9B2NzPttoMJ9rTlFoaDkgOOo8dcB3VpPT1V3hERPgANyyAda6qPs) |  |
-| 推薦開荒 | 2.43 | [查看配裝](https://cycleapple.github.io/xiv-tc-gear/?s=4NvrHiqk7H8bpVzAjjYuhj6LIxE7RZVrEfbDp7kN8Ph8yDtmyiehoii17UwxAz4G7XVlcWTsr7wMma) |  |
-| 開荒 | 2.19 | [查看配裝](https://cycleapple.github.io/xiv-tc-gear/?s=6LmXzJxTaOqHgNEcwcGjctIBa4RPLH80vgXSPJPP4cK4Nc05rVHdWskofMjY8tKZMxFloCt7IjVtvr0) |  |
-| 畢業 | 2.45 | [查看配裝](https://cycleapple.github.io/xiv-tc-gear/?s=1QqsEiFWYvpzzAp4ZWdsVvhhrB7PFdC9TWRNmzSr8yWsc7jteT9fFSXysMcC) |  |
-| 畢業 | 2.17 | [查看配裝](https://cycleapple.github.io/xiv-tc-gear/?s=1RSl8Yk5siBC9uswXCehOEXHL7IVc6Y6jMOThSwJYmS37Iqdi7DiLhOkSu5g) |  |
+| 裝等 | 類型 | GCD | 配裝 | 備註 |
+|------|------|-----|------|------|
+| 740 | 開荒 | 1068/2.42 | [查看配裝](https://cycleapple.github.io/xiv-tc-gear/?s=5lB2lXGyqHkuRaYZrrJooTu7C5JzYQkqnSTBvn7a5wipV3je9jWX6f82AOrjj7MCXgw2k05Ozp7endKjBy1ZK9QlGpPPg) | 1014/2.43黑魔法師開荒，<br />與其他法系相容，食物不同<br />準備週+零式週兌換750手套+項鍊，不可選換武器<br />（零式週4層時要刷420點數）<br />暴詠食物 |
+| 760 | 畢業 | 978/2.43 | [查看配裝](https://cycleapple.github.io/xiv-tc-gear/?s=fQMqIgSHGXhqpKvJrXv7uuvc19z3rrr3cISytaxvnsSIxIB0GUWzBlbNXkauKD8t0zY) | 相容性：除手鐲鑲嵌外法系通用<br />978/2.43黑魔法師畢業，6週畢業<br />推薦後期準備兩個零式耳飾，<br />一個打2信念，一個打1信念1詠唱<br />可以無損切換2.5赤；2.5繪，切2.48法系需再多個手鐲打2詠唱<br />暴詠食物 |
+| 740 | 開荒 | 3096/2.18 | [查看配裝](https://cycleapple.github.io/xiv-tc-gear/?s=2gXeTdjhe0dYrOayTbEtXEk8gWjbeOp7vOzoFO23rgjjTULeCxMHyKwyyEOpCOTAnQC4u7kmdWQbGOEIu1YpGr3K9g) | 3096/2.18黑魔法師開荒，<br />相容性：無<br />需兌換普通740衣服<br />該禁斷比高暴開荒並無數值優勢，但過渡到高詠畢業更平滑，速度更適應<br />準備週+零式週兌換750帽子+手鐲，不可選換武器<br />（零式週4層時要刷420點數）<br />詠直食物 |
+| 760 | 畢業 | 3191/2.17 | [查看配裝](https://cycleapple.github.io/xiv-tc-gear/?s=fED6o28wB8bWRC22p5eLHX1ZZLzLAPdb0zDSl0VTlgYvkmmTOCSu0LDaBHgwtlqVNq6) | 3191/2.17黑魔法師畢業，6週畢業<br />相容性：無<br />高詠流，理論最高<br />詠直食物 |

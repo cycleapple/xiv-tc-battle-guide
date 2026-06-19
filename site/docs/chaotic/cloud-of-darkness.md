@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 title: 滅・暗黑之雲激鬥戰
-description: FF14 滅 暗黑之雲 攻略，滅・暗黑之雲激鬥戰繁體中文攻略。翻譯自イディルシャイア居住区攻略文。
+description: FF14 滅 暗黑之雲 攻略，滅・暗黑之雲激鬥戰繁體中文攻略。翻譯自イディルシャイア居住區攻略文。
 keywords:
   - FF14
   - FFXIV
@@ -18,7 +18,7 @@ import MacroBlock from '@site/src/components/MacroBlock';
 ![滅・暗黑之雲激鬥戰](/img/cloud-of-darkness-chaotic/753472b0-s.png)
 
 :::info 來源與名詞
-本文依據「[イディルシャイア居住区](https://kanatan.info/archives/38822195.html)」的日文攻略整理翻譯，盡量保留原本章節、圖片與巨集格式。
+本文依據「[イディルシャイア居住區](https://kanatan.info/archives/38822195.html)」的日文攻略整理翻譯，盡量保留原本章節、圖片與巨集格式。
 :::
 
 :::caution 注意
@@ -83,7 +83,7 @@ BOSS 連線並賦予減益，有些減益到發動前會超過 60 秒。連線�
 
 ![齊射式波動炮](/img/cloud-of-darkness-chaotic/ee09bf28-s.jpg)
 
-系統訊息「暗闇の片乱雲が現れた…」出現後，雲會在東側與南側出現並詠唱波動炮。
+系統訊息「暗闇の片亂雲が現れた…」出現後，雲會在東側與南側出現並詠唱波動炮。
 
 南/東其中一側會先有 2 到 3 朵雲開始詠唱，接著另一側 2 到 3 朵雲開始詠唱。
 
@@ -204,7 +204,7 @@ A 去西，B 去南，C 去東。
 
 ![場地變化](/img/cloud-of-darkness-chaotic/695f516e.png)
 
-東西各有一塊方形平台，中央形成像「井」字的場地。後續處理需要東西平台各 6 人，中央井字場地 12 人，四角各 3 人。
+東西各有一塊方形平臺，中央形成像「井」字的場地。後續處理需要東西平臺各 6 人，中央井字場地 12 人，四角各 3 人。
 
 中央 BOSS 的 AA 目標是仇恨 1 到 4 位，注意不要跳仇恨。分組如下：
 
@@ -222,13 +222,13 @@ A 去西，B 去南，C 去東。
 
 紅圈為基本更新用地板，但機制中會有例外。H1/H2/D1/D2 可用的凸出第 3 格，除機制處理中外不要使用；只是更新地板時，不要進到交叉口格。
 
-東西平台會各出現「生於黑暗之物」（以下稱小 BOSS），由 A/C 聯盟坦克拿仇恨。小 BOSS 太靠近本體會連線強化。
+東西平臺會各出現「生於黑暗之物」（以下稱小 BOSS），由 A/C 聯盟坦克拿仇恨。小 BOSS 太靠近本體會連線強化。
 
-外圈平台的西北/東北/西南/東南會出現亞托莫斯。
+外圈平臺的西北/東北/西南/東南會出現亞託莫斯。
 
-![亞托莫斯](/img/cloud-of-darkness-chaotic/ce3bc04b-s.jpg)
+![亞託莫斯](/img/cloud-of-darkness-chaotic/ce3bc04b-s.jpg)
 
-若不擊殺會吸收附近玩家 HP 回復 BOSS，請立即處理。亞托莫斯會定期復活，遠程也可從中央打。死亡後留下小地板，踩上去可獲得強制轉移減益，用來從外側移動到內側，避免內側死人後無法補位。
+若不擊殺會吸收附近玩家 HP 回復 BOSS，請立即處理。亞託莫斯會定期復活，遠程也可從中央打。死亡後留下小地板，踩上去可獲得強制轉移減益，用來從外側移動到內側，避免內側死人後無法補位。
 
 場地變化後，BOSS 詠唱深暗領域：高額全體傷害，並將外周環狀地板變為即死地板。
 
@@ -321,7 +321,7 @@ BOSS 周圍雲的形狀決定範圍。
 
 ![外側種子](/img/cloud-of-darkness-chaotic/43ee1d42-s.jpg)
 
-內側組放在與外側平台相鄰的兩格。
+內側組放在與外側平臺相鄰的兩格。
 
 ![內側種子1](/img/cloud-of-darkness-chaotic/15a2353f-s.jpg)
 
@@ -389,9 +389,9 @@ BOSS 周圍雲的形狀決定範圍。
 
 ![分散式散開](/img/cloud-of-darkness-chaotic/ff357b59-s.png)
 
-### 回旋式波動炮
+### 迴旋式波動炮
 
-![回旋式波動炮](/img/cloud-of-darkness-chaotic/0b83b218-s.jpg)
+![迴旋式波動炮](/img/cloud-of-darkness-chaotic/0b83b218-s.jpg)
 
 BOSS 面向東西，從頭與尾發射直線波動炮並旋轉。旋轉約 90 到 105 度，需要貼邊躲。
 
@@ -399,7 +399,7 @@ BOSS 面向東西，從頭與尾發射直線波動炮並旋轉。旋轉約 90 �
 
 先在基本位置等待回轉出現。
 
-![回旋基本位置](/img/cloud-of-darkness-chaotic/b94f0a17.png)
+![迴旋基本位置](/img/cloud-of-darkness-chaotic/b94f0a17.png)
 
 依回轉方向，坦克先移到深處格。
 
@@ -411,7 +411,7 @@ BOSS 面向東西，從頭與尾發射直線波動炮並旋轉。旋轉約 90 �
 
 光束開始旋轉後，每次往前補 1 格。因為只轉約 90 度，從圖中位置移 1 格即可躲；不安可移 2 格，但同樣要等前一人移動後再走。
 
-![回旋結束位置](/img/cloud-of-darkness-chaotic/225161e9-s.png)
+![迴旋結束位置](/img/cloud-of-darkness-chaotic/225161e9-s.png)
 
 光束結束後，按相反順序回到定點。
 
@@ -419,7 +419,7 @@ BOSS 面向東西，從頭與尾發射直線波動炮並旋轉。旋轉約 90 �
   width="100%"
   height="315"
   src="https://www.youtube.com/embed/TemokUnF-78"
-  title="回旋式波動炮處理影片"
+  title="迴旋式波動炮處理影片"
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
   allowFullScreen
 ></iframe>
@@ -430,14 +430,14 @@ BOSS 面向東西，從頭與尾發射直線波動炮並旋轉。旋轉約 90 �
   width="100%"
   height="315"
   src="https://www.youtube.com/embed/obxX3DEaaSI"
-  title="跳躍波動炮與回旋式波動炮處理影片"
+  title="跳躍波動炮與迴旋式波動炮處理影片"
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
   allowFullScreen
 ></iframe>
 
 ### ルーミングカオス
 
-全員暈眩並被強制移動。外側各平台各 6 人，內側四角各 3 人，共 12 人。
+全員暈眩並被強制移動。外側各平臺各 6 人，內側四角各 3 人，共 12 人。
 
 以下為原文引用的暫定情報：
 
@@ -477,21 +477,21 @@ BOSS 面向東西，從頭與尾發射直線波動炮並旋轉。旋轉約 90 �
   allowFullScreen
 ></iframe>
 
-### 潜地式波動炮
+### 潛地式波動炮
 
 內側組四角門各 1 人、共 4 人被點追蹤 AoE。從第一個 AoE 開始，盡量往遠處跑開躲避。
 
-![潜地式波動炮 基本形](/img/cloud-of-darkness-chaotic/dc94c8e9.png)
+![潛地式波動炮 基本形](/img/cloud-of-darkness-chaotic/dc94c8e9.png)
 
 先排成上圖形狀。被點名者從此位置開始順時針狂奔。
 
 坦克若不是目標，看到目標者移動後空出位置，要進到外凸格補位。
 
-![潜地式波動炮 補位](/img/cloud-of-darkness-chaotic/451d7346.png)
+![潛地式波動炮 補位](/img/cloud-of-darkness-chaotic/451d7346.png)
 
 務必確認逃跑的人已經離開後再進格。
 
-![潜地式波動炮 跑法](/img/cloud-of-darkness-chaotic/3462e246.png)
+![潛地式波動炮 跑法](/img/cloud-of-darkness-chaotic/3462e246.png)
 
 被 AoE 追的人要一路順時針跑完一圈，回到自己的定點。
 
@@ -499,7 +499,7 @@ BOSS 面向東西，從頭與尾發射直線波動炮並旋轉。旋轉約 90 �
 
 `ST/H1/D1` 為原內側組，`D2/D3/D4` 為原外側組。
 
-![潜地後戰技](/img/cloud-of-darkness-chaotic/ade7dcfe.png)
+![潛地後戰技](/img/cloud-of-darkness-chaotic/ade7dcfe.png)
 
 若是分攤，按上圖組成配對，原內側組進 BOSS 目標圈內。
 
@@ -507,7 +507,7 @@ BOSS 面向東西，從頭與尾發射直線波動炮並旋轉。旋轉約 90 �
   width="100%"
   height="315"
   src="https://www.youtube.com/embed/VSXpPtra150"
-  title="潜地式波動炮處理影片"
+  title="潛地式波動炮處理影片"
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
   allowFullScreen
 ></iframe>
@@ -544,7 +544,7 @@ BOSS 面向東西，從頭與尾發射直線波動炮並旋轉。旋轉約 90 �
 /a    　CT/CH=C聯盟的STH1
 `}</MacroBlock>
 
-### 2. 第一次戰技 / 塔 / 荊棘 / 回旋
+### 2. 第一次戰技 / 塔 / 荊棘 / 迴旋
 
 <MacroBlock>{`
 /a ・第一次戰技
@@ -557,9 +557,9 @@ BOSS 面向東西，從頭與尾發射直線波動炮並旋轉。旋轉約 90 �
 /a 12時9時(北西):MTD1D3 3時6時(南東)H2D2D4
 /a ----------------------------------------------------------------
 /a ・外周組誘導荊棘          ・荊棘放置優先   ・種子重疊優先
-/a 　    内周側           内周側          H>D>T
+/a 　    內周側           內周側          H>D>T
 /a      荊　　　荊　　 ← MTH2D1D2D3D4 →
-/a        D2     D3                ・回旋式波動炮
+/a        D2     D3                ・迴旋式波動炮
 /a      荊　　　  荊　　　　  安全側坦克貼邊
 /a   　H2          D4           非安全側依THD移動
 `}</MacroBlock>

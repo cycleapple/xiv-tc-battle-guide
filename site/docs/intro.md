@@ -8,7 +8,7 @@ title: 首頁
 
 歡迎來到 FF14 繁體中文高難度副本攻略網站。
 
-本站以日服（Elemental / Mana）主流攻略為基礎，翻譯整理為繁體中文版本，方便台港澳玩家參考。
+本站以日服（Elemental / Mana）主流攻略為基礎，翻譯整理為繁體中文版本，方便臺港澳玩家參考。
 
 ## 目前收錄內容
 
@@ -27,21 +27,21 @@ title: 首頁
   - [重量級4（前半）— 林德布魯姆](savage/heavy/m12s-1)
   - [重量級4（後半）— 林德布魯姆](savage/heavy/m12s-2)
 
-- **阿卡狄亞零式登天鬥技場（中量級）**
+- **阿卡狄亞零式登天鬥技場（中重量級）**
   - [配裝推薦](savage/cruiser/gearing)
-  - [中量級1 — 青蛙舞者](savage/cruiser/m5s)
-  - [中量級2 — 狂熱糖潮](savage/cruiser/m6s)
-  - [中量級3 — 野蠻恨心](savage/cruiser/m7s)
-  - [中量級4（前半）— 劍嚎](savage/cruiser/m8s-1)
-  - [中量級4（後半）— 劍嚎](savage/cruiser/m8s-2)
+  - [中重量級1 — 青蛙舞者](savage/cruiser/m5s)
+  - [中重量級2 — 狂熱糖潮](savage/cruiser/m6s)
+  - [中重量級3 — 野蠻恨心](savage/cruiser/m7s)
+  - [中重量級4（前半）— 劍嚎](savage/cruiser/m8s-1)
+  - [中重量級4（後半）— 劍嚎](savage/cruiser/m8s-2)
 
-- **阿卡狄亞零式登天鬥技場（輕量級）**
+- **阿卡狄亞零式登天鬥技場（輕重量級）**
   - [配裝推薦](savage/light/gearing)
-  - [輕量級1 — 黑貓](savage/light/m1s)
-  - [輕量級2 — 蜂蜂小甜心](savage/light/m2s)
-  - [輕量級3 — 野蠻炸彈](savage/light/m3s)
-  - [輕量級4（前半）— 狡雷](savage/light/m4s-1)
-  - [輕量級4（後半）— 狡雷](savage/light/m4s-2)
+  - [輕重量級1 — 黑貓](savage/light/m1s)
+  - [輕重量級2 — 蜂蜂小甜心](savage/light/m2s)
+  - [輕重量級3 — 野蠻炸彈](savage/light/m3s)
+  - [輕重量級4（前半）— 狡雷](savage/light/m4s-1)
+  - [輕重量級4（後半）— 狡雷](savage/light/m4s-2)
 
 ## 攻略來源
 
@@ -57,8 +57,8 @@ title: 首頁
 |------|---------|------|
 | 至天の座アルカディア零式 | 阿卡狄亞零式登天鬥技場 | AAC (Arcadion Savage) |
 | ヘビー級 | 重量級 | Heavyweight |
-| クルーザー級 | 中量級 | Cruiserweight |
-| ライトヘビー級 | 輕量級 | Light-heavyweight |
+| クルーザー級 | 中重量級 | Cruiserweight |
+| ライトヘビー級 | 輕重量級 | Light-heavyweight |
 | ヴァンプ・ファタール | 致命美人 | Vamp Fatale |
 | ディープブルー＆レッドホット | 深藍＆熾紅 | Deep Blue & Red Hot |
 | ザ・タイラント | 霸王 | The Tyrant |
