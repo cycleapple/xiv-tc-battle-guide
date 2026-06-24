@@ -31,6 +31,19 @@ const roleChoices: RoleChoice[] = [
 ];
 
 const mechanicLabels: Record<string, string> = {
+  分摊: '分攤',
+  分散: '分散',
+  踩塔: '踩塔',
+  引导种子: '引導荊棘',
+  分散式波动炮: '分散式波動炮',
+  换线: '換線',
+  基础站位: '基礎站位',
+  种子弹预站位: '荊棘彈預站位',
+  种子弹放置: '荊棘彈放置',
+  凝缩式波动炮: '凝縮式波動炮',
+  潜地炮预站位: '潛地炮預站位',
+  '回旋式波动炮-顺时针': '回旋式波動炮 - 順時針',
+  '回旋式波动炮-逆时针': '回旋式波動炮 - 逆時針',
   aoes: '小 AoE',
   'begone with you': '擊退',
   bramble: '荊棘',
@@ -48,6 +61,78 @@ const mechanicLabels: Record<string, string> = {
 };
 
 const replacements: [RegExp, string][] = [
+  [/子言\+MMW视频内提到的イディル改（田园郡改@idyllshireinfo）打法/g, '子言+MMW 影片中提到的イディル改（田園郡改 @idyllshireinfo）打法'],
+  [/东西平台都是以场外为12点/g, '東西平台都以場外為 12 點'],
+  [/左侧\/西侧平台上，拉Boss朝场外，以场外作为12点/g, '左側/西側平台上，拉 Boss 朝場外，以場外作為 12 點'],
+  [/右侧\/东侧平台上，拉Boss朝场外，以场外作为12点/g, '右側/東側平台上，拉 Boss 朝場外，以場外作為 12 點'],
+  [/目标圈内/g, '目標圈內'],
+  [/目标圈外/g, '目標圈外'],
+  [/原内场/g, '原內場'],
+  [/不引导，站在小云妈脚下/g, '不引導，站在小雲腳下'],
+  [/我换到了华容道的东北角！现在怎么站\?/g, '我換到了地板區的東北角，接下來怎麼站？'],
+  [/我换到了华容道的东南角！现在怎么站\?/g, '我換到了地板區的東南角，接下來怎麼站？'],
+  [/我换到了华容道的西北角！现在怎么站\?/g, '我換到了地板區的西北角，接下來怎麼站？'],
+  [/我换到了华容道的西南角！现在怎么站\?/g, '我換到了地板區的西南角，接下來怎麼站？'],
+  [/我换到了华容道的东北或者东南角！现在怎么站\?/g, '我換到了地板區的東北或東南角，接下來怎麼站？'],
+  [/我换到了华容道的西北或者西南角！现在怎么站\?/g, '我換到了地板區的西北或西南角，接下來怎麼站？'],
+  [/我换到了东侧的平台上！现在怎么站\?/g, '我換到了東側平台，接下來怎麼站？'],
+  [/我换到了西侧的平台上！现在怎么站\?/g, '我換到了西側平台，接下來怎麼站？'],
+  [/请迅速挑衅重新建立仇恨 T需要换到逆时针方向的路口上（如潜地炮预站位）/g, '請迅速挑釁重新建立仇恨。T 需要換到逆時針方向的路口上（如潛地炮預站位）'],
+  [/请迅速挑衅重新建立仇恨，T需要拉Boss朝场外，?/g, '請迅速挑釁重新建立仇恨，T 需要拉 Boss 朝場外'],
+  [/请迅速去突起上站好（参考潜地炮预站位），优先级H≈D>T/g, '請迅速去突出處站好（參考潛地炮預站位），優先級 H≈D>T'],
+  [/请迅速挑衅重新建立仇恨/g, '請迅速挑釁重新建立仇恨'],
+  [/T需要换到逆时针方向的路口上（如潜地炮预站位）/g, 'T 需要換到逆時針方向的路口上（如潛地炮預站位）'],
+  [/T需要拉Boss朝场外/g, 'T 需要拉 Boss 朝場外'],
+  [/和([A-Z][A-Z0-9]*)一组/g, '與 $1 一組'],
+  [/和([A-Z][0-9]?)一组/g, '與 $1 一組'],
+  [/一组/g, '一組'],
+  [/分摊/g, '分攤'],
+  [/波动炮/g, '波動炮'],
+  [/引导种子/g, '引導荊棘'],
+  [/种子弹/g, '荊棘彈'],
+  [/种子/g, '荊棘'],
+  [/潜地炮/g, '潛地炮'],
+  [/预站位/g, '預站位'],
+  [/凝缩式/g, '凝縮式'],
+  [/基础站位/g, '基礎站位'],
+  [/回旋式波动炮/g, '回旋式波動炮'],
+  [/顺时针/g, '順時針'],
+  [/逆时针/g, '逆時針'],
+  [/危险区/g, '危險區'],
+  [/安全区/g, '安全區'],
+  [/优先级最高/g, '優先級最高'],
+  [/优先级次于T/g, '優先級次於 T'],
+  [/优先级次于D/g, '優先級次於 D'],
+  [/优先级最后/g, '優先級最後'],
+  [/优先级最低/g, '優先級最低'],
+  [/往安全区走/g, '往安全區走'],
+  [/去水平方向的突起/g, '去水平方向的突出處'],
+  [/去垂直方向的突起/g, '去垂直方向的突出處'],
+  [/突起/g, '突出處'],
+  [/内侧/g, '內側'],
+  [/外侧/g, '外側'],
+  [/场外/g, '場外'],
+  [/内场/g, '內場'],
+  [/参考/g, '參考'],
+  [/东侧/g, '東側'],
+  [/西侧/g, '西側'],
+  [/右侧/g, '右側'],
+  [/左侧/g, '左側'],
+  [/靠东/g, '靠東'],
+  [/靠西/g, '靠西'],
+  [/东北/g, '東北'],
+  [/东南/g, '東南'],
+  [/优先级/g, '優先級'],
+  [/华容道/g, '地板區'],
+  [/小云妈/g, '小雲'],
+  [/脚下/g, '腳下'],
+  [/作为/g, '作為'],
+  [/视频/g, '影片'],
+  [/田园郡/g, '田園郡'],
+  [/奶/g, '補師'],
+  [/队/g, '隊'],
+  [/东/g, '東'],
+  [/内/g, '內'],
   [/DOUBLE CHECK MACROS IF USED/g, '若使用巨集請再次確認'],
   [/Both 2 tiles east to ([A-Z/]+) corner tile/g, '兩人都向東 2 格到 $1 角落地板'],
   [/Both 2 tiles west to ([A-Z/]+) corner tile/g, '兩人都向西 2 格到 $1 角落地板'],
@@ -186,6 +271,15 @@ function translate(text = ''): string {
   return translated;
 }
 
+function sourceLabel(label: string): string {
+  const labels: Record<string, string> = {
+    bilibili: '子言+MMW 影片',
+    kanatan: 'イディルシャイア居住区攻略文',
+    raidplan: 'Raidplan',
+  };
+  return labels[label] ?? translate(label);
+}
+
 function roleLabel(role: Role, party: number, useJpNaming = false): string {
   if (role === 'Tank') return party === 1 ? 'MT' : useJpNaming ? 'ST' : 'OT/ST';
   if (role === 'Healer') return party === 1 ? 'H1' : 'H2';
@@ -241,10 +335,83 @@ function StepCard({
   );
 }
 
+function SwapSection({
+  note,
+  warning,
+  steps,
+  prefix,
+  spotlight,
+  alignment,
+  assetBase,
+}: {
+  note?: string;
+  warning?: string;
+  steps?: ChaoticMechanicStrat[];
+  prefix: string;
+  spotlight: boolean;
+  alignment: Alignment;
+  assetBase: string;
+}) {
+  if (!note || !steps?.length) return null;
+
+  return (
+    <details className="cod-cheat-swaps" open>
+      <summary>{translate(note)}</summary>
+      {warning && <p className="cod-cheat-warning">{translate(warning)}</p>}
+      <div className="cod-cheat-grid cod-cheat-grid--swap">
+        {steps.map((step, index) => (
+          <StepCard
+            key={`${prefix}-${step.mechanic}-${index}`}
+            step={step}
+            spotlight={spotlight}
+            alignment={alignment}
+            assetBase={assetBase}
+          />
+        ))}
+      </div>
+    </details>
+  );
+}
+
+function ExtraMechanicSection({
+  title,
+  steps,
+  prefix,
+  spotlight,
+  alignment,
+  assetBase,
+}: {
+  title: string;
+  steps?: ChaoticMechanicStrat[];
+  prefix: string;
+  spotlight: boolean;
+  alignment: Alignment;
+  assetBase: string;
+}) {
+  if (!steps?.length) return null;
+
+  return (
+    <section className="cod-cheat-extra">
+      <h2>{title}</h2>
+      <div className="cod-cheat-grid cod-cheat-grid--swap">
+        {steps.map((step, index) => (
+          <StepCard
+            key={`${prefix}-${step.mechanic}-${index}`}
+            step={step}
+            spotlight={spotlight}
+            alignment={alignment}
+            assetBase={assetBase}
+          />
+        ))}
+      </div>
+    </section>
+  );
+}
+
 export default function CloudOfDarknessCheatsheet(): React.ReactNode {
   const pageTitle = 'FF14 滅 暗黑之雲 小抄工具｜滅・暗黑之雲激鬥戰繁中站位';
   const pageDescription =
-    'FF14 滅 暗黑之雲小抄工具，整合 WTFDIG The Cloud of Darkness (Chaotic) 全策略、聯盟、職能位置與繁中站位提示，支援イディル改、CODCAR、HealerOut 與 Raidplan。';
+    'FF14 滅 暗黑之雲小抄工具，整合 WTFDIG The Cloud of Darkness (Chaotic) 全策略、聯盟、職能位置與繁中站位提示，支援子言+MMW、イディル改、CODCAR、HealerOut 與 Raidplan。';
   const canonicalUrl =
     'https://cycleapple.github.io/xiv-tc-battle-guide/chaotic/cloud-of-darkness-cheatsheet/';
   const structuredData = {
@@ -267,6 +434,7 @@ export default function CloudOfDarknessCheatsheet(): React.ReactNode {
       '滅・暗黑之雲激鬥戰',
       'The Cloud of Darkness Chaotic',
       'WTFDIG',
+      '子言+MMW',
       'イディル改',
     ],
     license: 'https://github.com/mczub/wtfdig/blob/main/LICENSE',
@@ -336,13 +504,22 @@ export default function CloudOfDarknessCheatsheet(): React.ReactNode {
   const useJpNaming = Boolean(chaoticFightConfig.strats[stratName]?.jpRoles);
   const selectedRoleLabel = roleLabel(role, party, useJpNaming);
   const hasAlignmentControls = Boolean(
-    playerStrat?.strats.some((step) => step.alignmentTransforms || step.alignmentImages),
+    [
+      ...(playerStrat?.strats ?? []),
+      ...(playerStrat?.activePivot ?? []),
+      ...(playerStrat?.swapStrats ?? []),
+      ...(playerStrat?.anotherSwapStrats ?? []),
+      ...(playerStrat?.thirdSwapStrats ?? []),
+    ].some((step) => step.alignmentTransforms || step.alignmentImages),
   );
 
   const sourceLinks =
     typeof selectedStrat?.stratUrl === 'string'
       ? [{label: translate(selectedStrat.description), href: selectedStrat.stratUrl}]
-      : Object.entries(selectedStrat?.stratUrl ?? {}).map(([label, href]) => ({label, href}));
+      : Object.entries(selectedStrat?.stratUrl ?? {}).map(([label, href]) => ({
+          label: sourceLabel(label),
+          href,
+        }));
 
   async function copyLink() {
     await navigator.clipboard.writeText(window.location.href);
@@ -358,7 +535,7 @@ export default function CloudOfDarknessCheatsheet(): React.ReactNode {
         <meta name="description" content={pageDescription} />
         <meta
           name="keywords"
-          content="FF14,FFXIV,滅 暗黑之雲 小抄,滅 暗黑之雲 攻略,滅・暗黑之雲激鬥戰,The Cloud of Darkness Chaotic,WTFDIG,イディル改,CODCAR,HealerOut,Raidplan,滅級攻略"
+          content="FF14,FFXIV,滅 暗黑之雲 小抄,滅 暗黑之雲 攻略,滅・暗黑之雲激鬥戰,The Cloud of Darkness Chaotic,WTFDIG,子言+MMW,イディル改,CODCAR,HealerOut,Raidplan,滅級攻略"
         />
         <meta property="og:type" content="website" />
         <meta property="og:title" content={pageTitle} />
@@ -380,7 +557,11 @@ export default function CloudOfDarknessCheatsheet(): React.ReactNode {
             <a href="https://github.com/mczub/wtfdig" target="_blank" rel="noreferrer">
               mczub/wtfdig
             </a>
-            ，原專案採 MIT License，Copyright (c) 2024 matthew czubakowski。
+            ，子言+MMW 資料參照{' '}
+            <a href="https://wtfdig.ffsusu.com/" target="_blank" rel="noreferrer">
+              ffsusu 漢化版
+            </a>
+            。原專案採 MIT License，Copyright (c) 2024 matthew czubakowski。
           </p>
         </div>
         <Link className="cod-cheat-back" to="/chaotic/cloud-of-darkness">
@@ -500,25 +681,44 @@ export default function CloudOfDarknessCheatsheet(): React.ReactNode {
             ))}
           </section>
 
+          <ExtraMechanicSection
+            title="子言特規：回旋式波動炮"
+            steps={playerStrat.activePivot}
+            prefix="active-pivot"
+            spotlight={spotlight}
+            alignment={alignment}
+            assetBase={assetBase}
+          />
+
           {playerStrat.swapNote && playerStrat.swapStrats && (
-            <details className="cod-cheat-swaps" open>
-              <summary>{translate(playerStrat.swapNote)}</summary>
-              {playerStrat.swapWarning && (
-                <p className="cod-cheat-warning">{translate(playerStrat.swapWarning)}</p>
-              )}
-              <div className="cod-cheat-grid cod-cheat-grid--swap">
-                {playerStrat.swapStrats.map((step, index) => (
-                  <StepCard
-                    key={`swap-${step.mechanic}-${index}`}
-                    step={step}
-                    spotlight={spotlight}
-                    alignment={alignment}
-                    assetBase={assetBase}
-                  />
-                ))}
-              </div>
-            </details>
+            <SwapSection
+              note={playerStrat.swapNote}
+              warning={playerStrat.swapWarning}
+              steps={playerStrat.swapStrats}
+              prefix="swap"
+              spotlight={spotlight}
+              alignment={alignment}
+              assetBase={assetBase}
+            />
           )}
+          <SwapSection
+            note={playerStrat.anotherSwapNote}
+            warning={playerStrat.anotherSwapWarning}
+            steps={playerStrat.anotherSwapStrats}
+            prefix="another-swap"
+            spotlight={spotlight}
+            alignment={alignment}
+            assetBase={assetBase}
+          />
+          <SwapSection
+            note={playerStrat.thirdSwapNote}
+            warning={playerStrat.thirdSwapWarning}
+            steps={playerStrat.thirdSwapStrats}
+            prefix="third-swap"
+            spotlight={spotlight}
+            alignment={alignment}
+            assetBase={assetBase}
+          />
         </>
       ) : (
         <section className="cod-cheat-empty">

@@ -2,6 +2,8 @@
 // Source: https://github.com/mczub/wtfdig
 // The original copyright notice is preserved in wtfdig-LICENSE.txt.
 
+import {ziyanMmwStrat} from './cloudOfDarknessZiyanMmwData';
+
 export type Role = 'Tank' | 'Healer' | 'Melee' | 'Ranged';
 export type Alliance = 'A' | 'B' | 'C';
 export type Alignment = 'original' | 'truenorth' | 'relative';
@@ -38,9 +40,16 @@ export interface PlayerStrats {
   notes: string;
   startingArea: StartingArea;
   strats: ChaoticMechanicStrat[];
+  activePivot?: ChaoticMechanicStrat[];
   swapNote?: string;
   swapWarning?: string;
   swapStrats?: ChaoticMechanicStrat[];
+  anotherSwapNote?: string;
+  anotherSwapWarning?: string;
+  anotherSwapStrats?: ChaoticMechanicStrat[];
+  thirdSwapNote?: string;
+  thirdSwapWarning?: string;
+  thirdSwapStrats?: ChaoticMechanicStrat[];
 }
 
 export interface ChaoticStrat {
@@ -58,6 +67,7 @@ export const chaoticFightConfig: FightConfig = {
   subtitle: 'Patch 7.1',
   cheatsheetTitle: 'Chaotic',
   strats: {
+    ziyan: { label: '子言+MMW', jpRoles: true },
     raidplan: { label: 'Raidplan (Aurelia/wfJ/o1Z)' },
     codcar: { label: 'CODCAR' },
     healerout: { label: 'HealerOut' },
@@ -6002,6 +6012,7 @@ const idyllStrat: ChaoticStrat = {
 };
 
 export const chaoticStrats: ChaoticStrat[] = [
+  ziyanMmwStrat,
   raidplanStrat,
   codcarStrat,
   healerOutStrat,

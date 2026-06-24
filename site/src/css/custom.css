@@ -202,6 +202,7 @@ pre code {
 
 .cod-cheat-controls,
 .cod-cheat-summary,
+.cod-cheat-extra,
 .cod-cheat-swaps,
 .cod-cheat-empty {
   background: var(--ifm-background-surface-color);
@@ -349,6 +350,17 @@ pre code {
 .cod-cheat-swaps {
   margin-top: 1rem;
   padding: 0.9rem;
+}
+
+.cod-cheat-extra {
+  margin-top: 1rem;
+  padding: 0.9rem;
+}
+
+.cod-cheat-extra h2 {
+  margin: 0 0 0.85rem;
+  color: var(--ifm-color-primary);
+  font-size: 1.1rem;
 }
 
 .cod-cheat-swaps summary {
