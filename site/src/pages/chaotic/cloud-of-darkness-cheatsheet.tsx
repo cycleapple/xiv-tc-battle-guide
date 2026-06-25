@@ -298,6 +298,14 @@ function getPlayerStrat(
   );
 }
 
+function alignmentValue(
+  values: Partial<Record<Alignment, string>> | undefined,
+  alignment: Alignment,
+  fallback = '',
+): string {
+  return values?.[alignment] || fallback;
+}
+
 function StepCard({
   step,
   spotlight,
@@ -309,9 +317,9 @@ function StepCard({
   alignment: Alignment;
   assetBase: string;
 }) {
-  const imageUrl = step.alignmentImages?.[alignment] ?? step.imageUrl ?? '';
-  const mask = spotlight ? step.alignmentMasks?.[alignment] ?? step.mask ?? '' : '';
-  const transform = step.alignmentTransforms?.[alignment] ?? step.transform ?? '';
+  const imageUrl = alignmentValue(step.alignmentImages, alignment, step.imageUrl ?? '');
+  const mask = spotlight ? alignmentValue(step.alignmentMasks, alignment, step.mask ?? '') : '';
+  const transform = alignmentValue(step.alignmentTransforms, alignment, step.transform ?? '');
   const resolvedImageUrl = imageUrl
     ? `${assetBase}${imageUrl.replace(/^\.\//, '')}`
     : '';
