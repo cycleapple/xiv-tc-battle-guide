@@ -106,7 +106,7 @@ const config: Config = {
           position: 'right',
         },
         {
-          href: 'https://portaly.cc/thecy',
+          href: 'https://p.ecpay.com.tw/5630EBB',
           label: '支持作者',
           position: 'right',
         },
